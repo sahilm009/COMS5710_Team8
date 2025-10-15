@@ -1,0 +1,3024 @@
+id,cell_count,cell_type,staining,objective,markers,set
+2330,69,AHPC,Cy3,20x,PI,trainval
+2664,128,AHPC,Cy3,20x,PI,trainval
+812,53,AHPC,AF488,20x,MAP2ab,trainval
+2859,46,RPC,Cy3,40x,TuJ1,trainval
+393,0,AHPC,Cy3,20x,PI,trainval
+1112,29,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2435,121,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2371,79,AHPC,Cy3,20x,PI,trainval
+60,6,AHPC,Cy3,20x,RIP,trainval
+1044,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+400,13,AHPC,Cy3,20x,RIP,trainval
+700,1,AHPC,Cy3,20x,PI,trainval
+2242,54,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1324,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+790,0,AHPC,Cy3,20x,MAP2ab,trainval
+2123,0,AHPC,Cy3,20x,PI,trainval
+1595,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2534,195,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1412,51,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+703,1,AHPC,Cy3,20x,PI,trainval
+1142,13,AHPC,Cy3,20x,MAP2ab,trainval
+2262,160,AHPC,Cy3,20x,Ki67 + RIP,trainval
+4,0,AHPC,Cy3,20x,PI,trainval
+2792,10,RPC,Cy3,40x,TuJ1,trainval
+2695,36,RPC,Cy3,40x,TuJ1,trainval
+1500,11,AHPC,Cy3,20x,RIP,trainval
+1437,0,AHPC,Cy3,20x,PI,trainval
+1049,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+516,7,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+690,1,AHPC,Cy3,20x,PI,trainval
+1613,10,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+628,0,AHPC,Cy3,20x,PI,trainval
+2185,166,AHPC,Cy3,20x,PI,trainval
+976,1,AHPC,Cy3,20x,PI,trainval
+2620,51,AHPC,Cy3,20x,PI,trainval
+3006,16,RPC,Cy3,40x,TuJ1,trainval
+1305,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2082,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2813,52,RPC,Cy3,40x,MAP2ab,trainval
+2136,2,AHPC,Cy3,20x,PI,trainval
+2905,60,RPC,Cy3,40x,TuJ1,trainval
+1248,7,AHPC,Cy3,20x,RIP,trainval
+2277,106,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2403,189,AHPC,Cy3,20x,PI,trainval
+2436,11,AHPC,Cy3,20x,Ki67 + RIP,trainval
+833,6,AHPC,AF488,20x,MAP2ab,trainval
+1110,9,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1293,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+1177,1,AHPC,Cy3,20x,PI,trainval
+639,0,AHPC,Cy3,20x,PI,trainval
+2651,35,AHPC,Cy3,20x,PI,trainval
+2967,31,RPC,Cy3,40x,MAP2ab,trainval
+1176,0,AHPC,Cy3,20x,PI,trainval
+2598,16,AHPC,Cy3,20x,PI,trainval
+1485,0,AHPC,Cy3,20x,PI,trainval
+1992,13,AHPC,Cy3,20x,RIP,trainval
+799,26,AHPC,AF488,20x,MAP2ab,trainval
+1268,8,AHPC,Cy3,20x,RIP,trainval
+1472,0,AHPC,Cy3,20x,PI,trainval
+2680,183,RPC,Cy3,40x,TuJ1,trainval
+935,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+2576,0,AHPC,Cy3,20x,GFAP,trainval
+2447,195,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1308,3,AHPC,AF488,20x,GFAP + Ki67,trainval
+1486,1,AHPC,Cy3,20x,PI,trainval
+2870,60,RPC,Cy3,40x,MAP2ab,trainval
+1511,18,AHPC,Cy3,20x,RIP,trainval
+3009,9,RPC,Cy3,40x,TuJ1,trainval
+490,32,AHPC,Cy3,20x,MAP2ab,trainval
+2132,2,AHPC,Cy3,20x,PI,trainval
+1171,0,AHPC,Cy3,20x,PI,trainval
+1633,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+864,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2971,25,RPC,Cy3,40x,MAP2ab,trainval
+2305,2,AHPC,Cy3,20x,GFAP,trainval
+1066,11,AHPC,AF488,20x,GFAP + Ki67,trainval
+2315,2,AHPC,Cy3,20x,GFAP,trainval
+106,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1263,27,AHPC,Cy3,20x,RIP,trainval
+1960,1,AHPC,Cy3,20x,PI,trainval
+1705,0,AHPC,Cy3,20x,PI,trainval
+1,0,AHPC,Cy3,20x,PI,trainval
+2885,87,RPC,Cy3,40x,MAP2ab,trainval
+2559,75,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2774,44,RPC,Cy3,40x,GFAP,trainval
+1409,6,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2356,37,AHPC,Cy3,20x,PI,trainval
+535,14,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1870,35,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+311,0,AHPC,Cy3,20x,PI,trainval
+1854,47,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+123,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1923,0,AHPC,Cy3,20x,PI,trainval
+691,0,AHPC,Cy3,20x,PI,trainval
+2063,44,AHPC,Cy3,20x,MAP2ab,trainval
+1593,7,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+846,1,AHPC,AF488,20x,MAP2ab,trainval
+2307,3,AHPC,Cy3,20x,GFAP,trainval
+953,0,AHPC,Cy3,20x,PI,trainval
+2953,37,RPC,Cy3,40x,MAP2ab,trainval
+1471,2,AHPC,Cy3,20x,PI,trainval
+1571,11,AHPC,Cy3,20x,MAP2ab,trainval
+1146,21,AHPC,Cy3,20x,MAP2ab,trainval
+670,0,AHPC,Cy3,20x,PI,trainval
+2814,99,RPC,Cy3,40x,MAP2ab,trainval
+1217,3,AHPC,Cy3,20x,PI,trainval
+1077,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2469,51,AHPC,AF488,20x,Ki67 + RIP,trainval
+2208,0,AHPC,Cy3,20x,PI,trainval
+2860,88,RPC,Cy3,40x,TuJ1,trainval
+2871,34,RPC,Cy3,40x,MAP2ab,trainval
+1873,31,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2892,105,RPC,Cy3,40x,MAP2ab,trainval
+1832,20,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+2531,329,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+135,5,AHPC,Cy3,20x,MAP2ab,trainval
+2849,67,RPC,Cy3,40x,TuJ1,trainval
+958,0,AHPC,Cy3,20x,PI,trainval
+2525,141,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1214,0,AHPC,Cy3,20x,PI,trainval
+983,2,AHPC,Cy3,20x,RIP,trainval
+1641,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1332,2,AHPC,Cy3,20x,MAP2ab,trainval
+882,4,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2853,71,RPC,Cy3,40x,TuJ1,trainval
+1806,4,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2569,0,AHPC,Cy3,20x,GFAP,trainval
+676,0,AHPC,Cy3,20x,PI,trainval
+601,0,AHPC,Cy3,20x,PI,trainval
+1708,0,AHPC,Cy3,20x,PI,trainval
+1567,23,AHPC,Cy3,20x,MAP2ab,trainval
+658,0,AHPC,Cy3,20x,PI,trainval
+1945,0,AHPC,Cy3,20x,PI,trainval
+1272,14,AHPC,Cy3,20x,RIP,trainval
+2989,11,RPC,Cy3,40x,TuJ1,trainval
+127,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1257,15,AHPC,Cy3,20x,RIP,trainval
+2167,0,AHPC,Cy3,20x,PI,trainval
+2014,4,AHPC,AF488,20x,GFAP + Ki67,trainval
+1383,10,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1727,0,AHPC,Cy3,20x,PI,trainval
+747,2,AHPC,Cy3,20x,PI,trainval
+1826,75,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+839,17,AHPC,AF488,20x,MAP2ab,trainval
+1062,6,AHPC,AF488,20x,GFAP + Ki67,trainval
+1683,0,AHPC,Cy3,20x,PI,trainval
+2542,192,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+159,6,AHPC,Cy3,20x,MAP2ab,trainval
+681,0,AHPC,Cy3,20x,PI,trainval
+800,14,AHPC,AF488,20x,MAP2ab,trainval
+1052,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2261,215,AHPC,Cy3,20x,Ki67 + RIP,trainval
+284,2,AHPC,Cy3,20x,PI,trainval
+2828,73,RPC,Cy3,40x,MAP2ab,trainval
+330,0,AHPC,Cy3,20x,PI,trainval
+834,0,AHPC,Cy3,20x,MAP2ab,trainval
+2446,18,AHPC,AF488,20x,Ki67 + RIP,trainval
+524,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+950,3,AHPC,Cy3,20x,PI,trainval
+225,0,AHPC,Cy3,20x,PI,trainval
+2754,172,RPC,Cy3,40x,TuJ1,trainval
+546,6,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+275,1,AHPC,Cy3,20x,PI,trainval
+1890,7,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+16,0,AHPC,Cy3,20x,PI,trainval
+2116,1,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+14,0,AHPC,Cy3,20x,PI,trainval
+2249,6,AHPC,Cy3,20x,MAP2ab,trainval
+280,0,AHPC,Cy3,20x,PI,trainval
+2376,67,AHPC,Cy3,20x,PI,trainval
+1009,39,AHPC,Cy3,20x,RIP,trainval
+1645,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+300,0,AHPC,Cy3,20x,PI,trainval
+2041,25,AHPC,Cy3,20x,MAP2ab,trainval
+2091,32,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1099,1,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2518,119,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1713,0,AHPC,Cy3,20x,PI,trainval
+1208,0,AHPC,Cy3,20x,PI,trainval
+2321,4,AHPC,Cy3,20x,GFAP,trainval
+2868,96,RPC,Cy3,40x,MAP2ab,trainval
+1135,8,AHPC,Cy3,20x,MAP2ab,trainval
+1542,0,AHPC,Cy3,20x,MAP2ab,trainval
+2443,29,AHPC,AF488,20x,Ki67 + RIP,trainval
+2437,1,AHPC,AF488,20x,Ki67 + RIP,trainval
+917,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1802,17,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2693,208,RPC,Cy3,40x,TuJ1,trainval
+565,0,AHPC,Cy3,20x,PI,trainval
+2423,78,AHPC,AF488,20x,MAP2ab,trainval
+1003,5,AHPC,Cy3,20x,RIP,trainval
+1644,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2267,164,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2050,13,AHPC,Cy3,20x,MAP2ab,trainval
+539,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1922,0,AHPC,Cy3,20x,PI,trainval
+2372,92,AHPC,Cy3,20x,PI,trainval
+406,64,AHPC,Cy3,20x,RIP,trainval
+2570,3,AHPC,Cy3,20x,GFAP,trainval
+2115,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1287,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2326,47,AHPC,Cy3,20x,PI,trainval
+2673,113,RPC,Cy3,40x,TuJ1,trainval
+2613,35,AHPC,Cy3,20x,PI,trainval
+114,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2913,69,RPC,Cy3,40x,TuJ1,trainval
+1196,0,AHPC,Cy3,20x,PI,trainval
+2718,32,RPC,Cy3,40x,GFAP,trainval
+1291,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2416,77,AHPC,Cy3,20x,PI,trainval
+1033,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2931,15,RPC,Cy3,40x,TuJ1,trainval
+1198,0,AHPC,Cy3,20x,PI,trainval
+1101,6,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+931,4,AHPC,AF488,20x,GFAP + Ki67,trainval
+2619,90,AHPC,Cy3,20x,PI,trainval
+205,1,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1030,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2093,20,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1309,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+532,24,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2831,34,RPC,Cy3,40x,MAP2ab,trainval
+1361,5,AHPC,Cy3,20x,MAP2ab,trainval
+1506,2,AHPC,Cy3,20x,RIP,trainval
+1297,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2244,173,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2908,45,RPC,Cy3,40x,TuJ1,trainval
+1882,35,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1296,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+90,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+662,0,AHPC,Cy3,20x,PI,trainval
+1817,6,AHPC,AF488,20x,MAP2ab,trainval
+77,18,AHPC,Cy3,20x,RIP,trainval
+511,31,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+998,6,AHPC,Cy3,20x,RIP,trainval
+1751,0,AHPC,Cy3,20x,PI,trainval
+1880,18,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2543,149,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1435,5,AHPC,Cy3,20x,PI,trainval
+2629,243,AHPC,Cy3,20x,PI,trainval
+1855,32,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+2464,61,AHPC,AF488,20x,Ki67 + RIP,trainval
+1493,0,AHPC,Cy3,20x,PI,trainval
+110,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+752,1,AHPC,Cy3,20x,PI,trainval
+710,10,AHPC,Cy3,20x,PI,trainval
+156,5,AHPC,Cy3,20x,MAP2ab,trainval
+107,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+965,1,AHPC,Cy3,20x,PI,trainval
+652,2,AHPC,Cy3,20x,PI,trainval
+1697,0,AHPC,Cy3,20x,PI,trainval
+997,33,AHPC,Cy3,20x,RIP,trainval
+2857,43,RPC,Cy3,40x,TuJ1,trainval
+2519,116,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2073,7,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+822,8,AHPC,AF488,20x,MAP2ab,trainval
+351,0,AHPC,Cy3,20x,PI,trainval
+23,0,AHPC,Cy3,20x,PI,trainval
+1201,0,AHPC,Cy3,20x,PI,trainval
+313,4,AHPC,Cy3,20x,PI,trainval
+1700,0,AHPC,Cy3,20x,PI,trainval
+1525,12,AHPC,Cy3,20x,RIP,trainval
+299,12,AHPC,Cy3,20x,PI,trainval
+1520,16,AHPC,Cy3,20x,RIP,trainval
+286,0,AHPC,Cy3,20x,PI,trainval
+1840,19,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+1274,11,AHPC,Cy3,20x,RIP,trainval
+2553,170,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1461,0,AHPC,Cy3,20x,PI,trainval
+361,0,AHPC,Cy3,20x,PI,trainval
+1919,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1458,0,AHPC,Cy3,20x,PI,trainval
+88,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+877,13,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+357,0,AHPC,Cy3,20x,PI,trainval
+1467,0,AHPC,Cy3,20x,PI,trainval
+2791,83,RPC,Cy3,40x,TuJ1,trainval
+809,10,AHPC,AF488,20x,MAP2ab,trainval
+374,0,AHPC,Cy3,20x,PI,trainval
+150,3,AHPC,Cy3,20x,MAP2ab,trainval
+2817,46,RPC,Cy3,40x,MAP2ab,trainval
+1418,0,AHPC,Cy3,20x,PI,trainval
+2572,0,AHPC,Cy3,20x,GFAP,trainval
+1639,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+1370,31,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2909,75,RPC,Cy3,40x,TuJ1,trainval
+2105,37,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+113,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+529,9,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+717,0,AHPC,Cy3,20x,PI,trainval
+2966,23,RPC,Cy3,40x,MAP2ab,trainval
+875,50,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+746,0,AHPC,Cy3,20x,PI,trainval
+1739,0,AHPC,Cy3,20x,PI,trainval
+757,0,AHPC,Cy3,20x,PI,trainval
+1475,0,AHPC,Cy3,20x,PI,trainval
+2869,59,RPC,Cy3,40x,MAP2ab,trainval
+2816,62,RPC,Cy3,40x,MAP2ab,trainval
+2360,37,AHPC,Cy3,20x,PI,trainval
+2522,93,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1905,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+559,35,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1691,0,AHPC,Cy3,20x,PI,trainval
+2460,146,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1224,0,AHPC,Cy3,20x,PI,trainval
+766,1,AHPC,Cy3,20x,PI,trainval
+1791,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2007,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+2312,0,AHPC,Cy3,20x,GFAP,trainval
+1659,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1964,29,AHPC,Cy3,20x,RIP,trainval
+1158,0,AHPC,Cy3,20x,PI,trainval
+29,0,AHPC,Cy3,20x,PI,trainval
+1310,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2990,12,RPC,Cy3,40x,TuJ1,trainval
+1209,0,AHPC,Cy3,20x,PI,trainval
+214,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+467,9,AHPC,Cy3,20x,MAP2ab,trainval
+352,3,AHPC,Cy3,20x,PI,trainval
+441,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+2252,150,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1071,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1736,0,AHPC,Cy3,20x,PI,trainval
+1549,7,AHPC,Cy3,20x,MAP2ab,trainval
+1122,6,AHPC,Cy3,20x,MAP2ab,trainval
+1742,0,AHPC,Cy3,20x,PI,trainval
+2246,1,AHPC,Cy3,20x,MAP2ab,trainval
+734,3,AHPC,Cy3,20x,PI,trainval
+672,0,AHPC,Cy3,20x,PI,trainval
+2401,138,AHPC,Cy3,20x,PI,trainval
+371,0,AHPC,Cy3,20x,PI,trainval
+2425,103,AHPC,AF488,20x,MAP2ab,trainval
+1219,1,AHPC,Cy3,20x,PI,trainval
+2776,27,RPC,Cy3,40x,GFAP,trainval
+1566,9,AHPC,Cy3,20x,MAP2ab,trainval
+1581,38,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2095,12,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+777,0,AHPC,Cy3,20x,PI,trainval
+522,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+238,0,AHPC,Cy3,20x,PI,trainval
+2713,37,RPC,Cy3,40x,GFAP,trainval
+2575,0,AHPC,Cy3,20x,GFAP,trainval
+2281,0,AHPC,Cy3,20x,GFAP,trainval
+1501,12,AHPC,Cy3,20x,RIP,trainval
+2994,16,RPC,Cy3,40x,TuJ1,trainval
+1385,15,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2526,82,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1788,34,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2100,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2025,7,AHPC,AF488,20x,GFAP + Ki67,trainval
+151,15,AHPC,Cy3,20x,MAP2ab,trainval
+1322,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1063,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1234,2,AHPC,Cy3,20x,PI,trainval
+975,0,AHPC,Cy3,20x,PI,trainval
+2096,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+737,0,AHPC,Cy3,20x,PI,trainval
+1707,0,AHPC,Cy3,20x,PI,trainval
+640,0,AHPC,Cy3,20x,PI,trainval
+2038,20,AHPC,Cy3,20x,MAP2ab,trainval
+2495,150,AHPC,Cy3,20x,Ki67 + RIP,trainval
+34,0,AHPC,Cy3,20x,PI,trainval
+2805,67,RPC,Cy3,40x,TuJ1,trainval
+1747,0,AHPC,Cy3,20x,PI,trainval
+1637,8,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1779,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2847,80,RPC,Cy3,40x,TuJ1,trainval
+1153,8,AHPC,Cy3,20x,MAP2ab,trainval
+1182,0,AHPC,Cy3,20x,PI,trainval
+1609,6,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1602,18,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1394,69,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1050,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+663,0,AHPC,Cy3,20x,PI,trainval
+2047,15,AHPC,Cy3,20x,MAP2ab,trainval
+2696,129,RPC,Cy3,40x,TuJ1,trainval
+1841,41,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+1120,14,AHPC,Cy3,20x,MAP2ab,trainval
+270,0,AHPC,Cy3,20x,PI,trainval
+2311,0,AHPC,Cy3,20x,GFAP,trainval
+206,13,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+523,10,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+372,0,AHPC,Cy3,20x,PI,trainval
+1366,6,AHPC,Cy3,20x,MAP2ab,trainval
+2097,9,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2283,0,AHPC,Cy3,20x,GFAP,trainval
+2731,51,RPC,Cy3,40x,TuJ1,trainval
+331,0,AHPC,Cy3,20x,PI,trainval
+100,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1778,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+656,2,AHPC,Cy3,20x,PI,trainval
+2796,2,RPC,Cy3,40x,TuJ1,trainval
+587,0,AHPC,Cy3,20x,PI,trainval
+2336,138,AHPC,Cy3,20x,PI,trainval
+1725,0,AHPC,Cy3,20x,PI,trainval
+291,0,AHPC,Cy3,20x,PI,trainval
+709,0,AHPC,Cy3,20x,PI,trainval
+1589,11,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+97,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1957,0,AHPC,Cy3,20x,PI,trainval
+533,19,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1616,4,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+730,17,AHPC,Cy3,20x,PI,trainval
+2503,127,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+956,1,AHPC,Cy3,20x,PI,trainval
+279,2,AHPC,Cy3,20x,PI,trainval
+324,0,AHPC,Cy3,20x,PI,trainval
+2812,33,RPC,Cy3,40x,MAP2ab,trainval
+19,1,AHPC,Cy3,20x,PI,trainval
+1533,9,AHPC,Cy3,20x,RIP,trainval
+46,6,AHPC,Cy3,20x,RIP,trainval
+2500,6,AHPC,AF488,20x,Ki67 + RIP,trainval
+509,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2714,84,RPC,Cy3,40x,GFAP,trainval
+1599,6,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1333,2,AHPC,Cy3,20x,MAP2ab,trainval
+1918,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2874,33,RPC,Cy3,40x,MAP2ab,trainval
+2158,0,AHPC,Cy3,20x,PI,trainval
+248,0,AHPC,Cy3,20x,PI,trainval
+2032,6,AHPC,Cy3,20x,MAP2ab,trainval
+1102,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+789,2,AHPC,Cy3,20x,PI,trainval
+2661,58,AHPC,Cy3,20x,PI,trainval
+2697,136,RPC,Cy3,40x,TuJ1,trainval
+2426,63,AHPC,AF488,20x,MAP2ab,trainval
+2020,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+1951,0,AHPC,Cy3,20x,PI,trainval
+1318,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+429,8,AHPC,Cy3,20x,RIP,trainval
+2988,5,RPC,Cy3,40x,TuJ1,trainval
+1588,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+788,0,AHPC,Cy3,20x,PI,trainval
+2702,117,RPC,Cy3,40x,TuJ1,trainval
+828,11,AHPC,AF488,20x,MAP2ab,trainval
+2498,280,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1390,16,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+913,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1799,52,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2075,14,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+246,0,AHPC,Cy3,20x,PI,trainval
+1815,0,AHPC,AF488,20x,MAP2ab,trainval
+2912,59,RPC,Cy3,40x,TuJ1,trainval
+105,5,AHPC,AF488,20x,GFAP + Ki67,trainval
+1315,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+1924,0,AHPC,Cy3,20x,PI,trainval
+404,28,AHPC,Cy3,20x,RIP,trainval
+2701,62,RPC,Cy3,40x,TuJ1,trainval
+749,2,AHPC,Cy3,20x,PI,trainval
+847,4,AHPC,AF488,20x,MAP2ab,trainval
+2653,27,AHPC,Cy3,20x,PI,trainval
+951,0,AHPC,Cy3,20x,PI,trainval
+1522,4,AHPC,Cy3,20x,RIP,trainval
+2666,56,AHPC,Cy3,20x,PI,trainval
+164,14,AHPC,Cy3,20x,MAP2ab,trainval
+1375,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2341,46,AHPC,Cy3,20x,PI,trainval
+1953,0,AHPC,Cy3,20x,PI,trainval
+1678,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+537,7,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+165,7,AHPC,Cy3,20x,MAP2ab,trainval
+1572,10,AHPC,Cy3,20x,MAP2ab,trainval
+2415,61,AHPC,Cy3,20x,PI,trainval
+236,0,AHPC,Cy3,20x,PI,trainval
+2379,74,AHPC,Cy3,20x,PI,trainval
+1022,4,AHPC,AF488,20x,GFAP + Ki67,trainval
+401,15,AHPC,Cy3,20x,RIP,trainval
+2258,246,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1178,0,AHPC,Cy3,20x,PI,trainval
+1365,2,AHPC,Cy3,20x,MAP2ab,trainval
+1331,5,AHPC,Cy3,20x,MAP2ab,trainval
+1765,5,AHPC,AF488,20x,GFAP + Ki67,trainval
+328,0,AHPC,Cy3,20x,PI,trainval
+21,0,AHPC,Cy3,20x,PI,trainval
+309,0,AHPC,Cy3,20x,PI,trainval
+2644,12,AHPC,Cy3,20x,PI,trainval
+1884,1,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1106,32,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+308,1,AHPC,Cy3,20x,PI,trainval
+2268,134,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2206,0,AHPC,Cy3,20x,PI,trainval
+312,10,AHPC,Cy3,20x,PI,trainval
+816,4,AHPC,AF488,20x,MAP2ab,trainval
+2952,27,RPC,Cy3,40x,MAP2ab,trainval
+603,0,AHPC,Cy3,20x,PI,trainval
+2191,0,AHPC,Cy3,20x,PI,trainval
+1970,15,AHPC,Cy3,20x,RIP,trainval
+1246,2,AHPC,Cy3,20x,RIP,trainval
+1942,0,AHPC,Cy3,20x,PI,trainval
+2505,95,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1417,5,AHPC,Cy3,20x,PI,trainval
+2248,5,AHPC,Cy3,20x,MAP2ab,trainval
+2554,16,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2504,132,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+161,13,AHPC,Cy3,20x,MAP2ab,trainval
+674,3,AHPC,Cy3,20x,PI,trainval
+507,0,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1098,2,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+202,19,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+184,11,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1163,0,AHPC,Cy3,20x,PI,trainval
+204,7,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2065,22,AHPC,Cy3,20x,MAP2ab,trainval
+519,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+583,0,AHPC,Cy3,20x,PI,trainval
+2480,97,AHPC,Cy3,20x,Ki67 + RIP,trainval
+96,4,AHPC,AF488,20x,GFAP + Ki67,trainval
+2279,142,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2024,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+247,0,AHPC,Cy3,20x,PI,trainval
+2811,24,RPC,Cy3,40x,MAP2ab,trainval
+2071,29,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1703,0,AHPC,Cy3,20x,PI,trainval
+1812,10,AHPC,AF488,20x,MAP2ab,trainval
+925,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2254,297,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2549,158,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1319,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+886,51,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+47,20,AHPC,Cy3,20x,RIP,trainval
+1237,2,AHPC,Cy3,20x,PI,trainval
+977,0,AHPC,Cy3,20x,PI,trainval
+1800,12,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1459,5,AHPC,Cy3,20x,PI,trainval
+1491,0,AHPC,Cy3,20x,PI,trainval
+2852,81,RPC,Cy3,40x,TuJ1,trainval
+2665,106,AHPC,Cy3,20x,PI,trainval
+1527,8,AHPC,Cy3,20x,RIP,trainval
+499,5,AHPC,Cy3,20x,MAP2ab,trainval
+2775,5,RPC,Cy3,40x,GFAP,trainval
+2600,19,AHPC,Cy3,20x,PI,trainval
+2421,78,AHPC,AF488,20x,MAP2ab,trainval
+572,0,AHPC,Cy3,20x,PI,trainval
+2611,22,AHPC,Cy3,20x,PI,trainval
+1233,0,AHPC,Cy3,20x,PI,trainval
+1596,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2567,0,AHPC,Cy3,20x,GFAP,trainval
+2468,151,AHPC,Cy3,20x,Ki67 + RIP,trainval
+505,4,AHPC,Cy3,20x,MAP2ab,trainval
+635,0,AHPC,Cy3,20x,PI,trainval
+1086,12,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2862,87,RPC,Cy3,40x,TuJ1,trainval
+2362,125,AHPC,Cy3,20x,PI,trainval
+1881,10,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2222,7,AHPC,Cy3,20x,PI,trainval
+1188,0,AHPC,Cy3,20x,PI,trainval
+2681,111,RPC,Cy3,40x,TuJ1,trainval
+2612,37,AHPC,Cy3,20x,PI,trainval
+1037,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+1680,0,AHPC,Cy3,20x,PI,trainval
+645,0,AHPC,Cy3,20x,PI,trainval
+2630,58,AHPC,Cy3,20x,PI,trainval
+1059,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2654,45,AHPC,Cy3,20x,PI,trainval
+475,10,AHPC,Cy3,20x,MAP2ab,trainval
+1005,8,AHPC,Cy3,20x,RIP,trainval
+618,0,AHPC,Cy3,20x,PI,trainval
+2471,38,AHPC,AF488,20x,Ki67 + RIP,trainval
+1551,14,AHPC,Cy3,20x,MAP2ab,trainval
+831,0,AHPC,AF488,20x,MAP2ab,trainval
+2126,0,AHPC,Cy3,20x,PI,trainval
+1179,0,AHPC,Cy3,20x,PI,trainval
+521,18,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+3011,14,RPC,Cy3,40x,TuJ1,trainval
+1780,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2735,80,RPC,Cy3,40x,TuJ1,trainval
+2643,27,AHPC,Cy3,20x,PI,trainval
+1090,5,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2587,58,AHPC,Cy3,20x,PI,trainval
+1395,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2536,119,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+128,6,AHPC,AF488,20x,GFAP + Ki67,trainval
+1032,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+1563,8,AHPC,Cy3,20x,MAP2ab,trainval
+1147,10,AHPC,Cy3,20x,MAP2ab,trainval
+456,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+2520,91,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+481,11,AHPC,Cy3,20x,MAP2ab,trainval
+298,5,AHPC,Cy3,20x,PI,trainval
+1445,0,AHPC,Cy3,20x,PI,trainval
+584,0,AHPC,Cy3,20x,PI,trainval
+2657,24,AHPC,Cy3,20x,PI,trainval
+2756,180,RPC,Cy3,40x,TuJ1,trainval
+303,15,AHPC,Cy3,20x,PI,trainval
+1481,0,AHPC,Cy3,20x,PI,trainval
+2810,58,RPC,Cy3,40x,MAP2ab,trainval
+2257,125,AHPC,Cy3,20x,Ki67 + RIP,trainval
+495,18,AHPC,Cy3,20x,MAP2ab,trainval
+1127,8,AHPC,Cy3,20x,MAP2ab,trainval
+2926,50,RPC,Cy3,40x,TuJ1,trainval
+1757,0,AHPC,Cy3,20x,PI,trainval
+176,72,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1666,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+624,0,AHPC,Cy3,20x,PI,trainval
+909,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1259,9,AHPC,Cy3,20x,RIP,trainval
+2488,179,AHPC,Cy3,20x,Ki67 + RIP,trainval
+319,0,AHPC,Cy3,20x,PI,trainval
+488,8,AHPC,Cy3,20x,MAP2ab,trainval
+994,6,AHPC,Cy3,20x,RIP,trainval
+1012,4,AHPC,Cy3,20x,RIP,trainval
+2564,0,AHPC,Cy3,20x,GFAP,trainval
+653,2,AHPC,Cy3,20x,PI,trainval
+1141,6,AHPC,Cy3,20x,MAP2ab,trainval
+375,3,AHPC,Cy3,20x,PI,trainval
+515,6,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+69,15,AHPC,Cy3,20x,RIP,trainval
+936,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+929,6,AHPC,AF488,20x,GFAP + Ki67,trainval
+442,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+550,13,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+549,23,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2204,5,AHPC,Cy3,20x,PI,trainval
+866,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+820,45,AHPC,AF488,20x,MAP2ab,trainval
+1494,0,AHPC,Cy3,20x,PI,trainval
+2513,160,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+728,0,AHPC,Cy3,20x,PI,trainval
+169,11,AHPC,Cy3,20x,MAP2ab,trainval
+76,6,AHPC,Cy3,20x,RIP,trainval
+1218,0,AHPC,Cy3,20x,PI,trainval
+53,31,AHPC,Cy3,20x,RIP,trainval
+2930,33,RPC,Cy3,40x,TuJ1,trainval
+347,1,AHPC,Cy3,20x,PI,trainval
+86,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1818,8,AHPC,AF488,20x,MAP2ab,trainval
+1544,27,AHPC,Cy3,20x,MAP2ab,trainval
+1763,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1849,4,AHPC,AF488,20x,MAP2ab,trainval
+433,20,AHPC,Cy3,20x,RIP,trainval
+1899,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1745,0,AHPC,Cy3,20x,PI,trainval
+553,8,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+755,0,AHPC,Cy3,20x,PI,trainval
+2069,25,AHPC,Cy3,20x,MAP2ab,trainval
+1114,6,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1031,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1410,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1175,0,AHPC,Cy3,20x,PI,trainval
+1251,4,AHPC,Cy3,20x,RIP,trainval
+1440,3,AHPC,Cy3,20x,PI,trainval
+680,2,AHPC,Cy3,20x,PI,trainval
+1107,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1949,1,AHPC,Cy3,20x,PI,trainval
+1869,21,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+862,2,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1013,20,AHPC,Cy3,20x,RIP,trainval
+2474,12,AHPC,AF488,20x,Ki67 + RIP,trainval
+1561,5,AHPC,Cy3,20x,MAP2ab,trainval
+1405,31,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+212,30,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2719,54,RPC,Cy3,40x,GFAP,trainval
+2080,26,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+571,0,AHPC,Cy3,20x,PI,trainval
+3010,11,RPC,Cy3,40x,TuJ1,trainval
+1976,31,AHPC,Cy3,20x,RIP,trainval
+714,0,AHPC,Cy3,20x,PI,trainval
+315,0,AHPC,Cy3,20x,PI,trainval
+2634,43,AHPC,Cy3,20x,PI,trainval
+1498,25,AHPC,Cy3,20x,RIP,trainval
+837,3,AHPC,AF488,20x,MAP2ab,trainval
+492,11,AHPC,Cy3,20x,MAP2ab,trainval
+2033,26,AHPC,Cy3,20x,MAP2ab,trainval
+2523,117,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1785,9,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2945,39,RPC,Cy3,40x,MAP2ab,trainval
+1874,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2834,28,RPC,Cy3,40x,MAP2ab,trainval
+853,0,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2188,16,AHPC,Cy3,20x,PI,trainval
+2353,55,AHPC,Cy3,20x,PI,trainval
+932,3,AHPC,AF488,20x,GFAP + Ki67,trainval
+297,0,AHPC,Cy3,20x,PI,trainval
+806,0,AHPC,Cy3,20x,MAP2ab,trainval
+2264,74,AHPC,Cy3,20x,Ki67 + RIP,trainval
+170,14,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+394,0,AHPC,Cy3,20x,PI,trainval
+2647,14,AHPC,Cy3,20x,PI,trainval
+2694,66,RPC,Cy3,40x,TuJ1,trainval
+2807,58,RPC,Cy3,40x,TuJ1,trainval
+1138,16,AHPC,Cy3,20x,MAP2ab,trainval
+306,15,AHPC,Cy3,20x,PI,trainval
+431,8,AHPC,Cy3,20x,RIP,trainval
+1914,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2800,78,RPC,Cy3,40x,TuJ1,trainval
+2133,0,AHPC,Cy3,20x,PI,trainval
+1557,5,AHPC,Cy3,20x,MAP2ab,trainval
+778,0,AHPC,Cy3,20x,PI,trainval
+2698,52,RPC,Cy3,40x,TuJ1,trainval
+1414,32,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2501,46,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2991,18,RPC,Cy3,40x,TuJ1,trainval
+783,0,AHPC,Cy3,20x,PI,trainval
+2054,11,AHPC,Cy3,20x,MAP2ab,trainval
+1172,1,AHPC,Cy3,20x,PI,trainval
+1553,12,AHPC,Cy3,20x,MAP2ab,trainval
+1688,0,AHPC,Cy3,20x,PI,trainval
+1585,0,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2256,113,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1839,18,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+485,9,AHPC,Cy3,20x,MAP2ab,trainval
+1073,14,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2555,98,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1935,0,AHPC,Cy3,20x,PI,trainval
+2390,35,AHPC,Cy3,20x,PI,trainval
+1821,13,AHPC,AF488,20x,MAP2ab,trainval
+889,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1649,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2772,1,RPC,Cy3,40x,GFAP,trainval
+912,10,AHPC,AF488,20x,GFAP + Ki67,trainval
+227,0,AHPC,Cy3,20x,PI,trainval
+1722,0,AHPC,Cy3,20x,PI,trainval
+210,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+118,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2865,102,RPC,Cy3,40x,TuJ1,trainval
+1216,1,AHPC,Cy3,20x,PI,trainval
+192,32,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1586,26,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+365,0,AHPC,Cy3,20x,PI,trainval
+959,2,AHPC,Cy3,20x,PI,trainval
+1712,0,AHPC,Cy3,20x,PI,trainval
+1130,15,AHPC,Cy3,20x,MAP2ab,trainval
+1907,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+1227,0,AHPC,Cy3,20x,PI,trainval
+563,0,AHPC,Cy3,20x,PI,trainval
+1770,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+2906,62,RPC,Cy3,40x,TuJ1,trainval
+2873,37,RPC,Cy3,40x,MAP2ab,trainval
+226,0,AHPC,Cy3,20x,PI,trainval
+586,0,AHPC,Cy3,20x,PI,trainval
+1479,0,AHPC,Cy3,20x,PI,trainval
+2833,42,RPC,Cy3,40x,MAP2ab,trainval
+678,0,AHPC,Cy3,20x,PI,trainval
+2985,25,RPC,Cy3,40x,TuJ1,trainval
+883,67,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2595,2,AHPC,Cy3,20x,PI,trainval
+729,4,AHPC,Cy3,20x,PI,trainval
+527,3,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2431,234,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1792,0,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1687,0,AHPC,Cy3,20x,PI,trainval
+417,9,AHPC,Cy3,20x,RIP,trainval
+560,0,AHPC,Cy3,20x,PI,trainval
+823,6,AHPC,AF488,20x,MAP2ab,trainval
+1711,0,AHPC,Cy3,20x,PI,trainval
+939,1,AHPC,Cy3,20x,PI,trainval
+2166,0,AHPC,Cy3,20x,PI,trainval
+1451,11,AHPC,Cy3,20x,PI,trainval
+1614,1,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1885,9,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1343,4,AHPC,Cy3,20x,MAP2ab,trainval
+381,0,AHPC,Cy3,20x,PI,trainval
+1042,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+669,3,AHPC,Cy3,20x,PI,trainval
+1441,0,AHPC,Cy3,20x,PI,trainval
+706,4,AHPC,Cy3,20x,PI,trainval
+1301,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+61,61,AHPC,Cy3,20x,RIP,trainval
+1125,7,AHPC,Cy3,20x,MAP2ab,trainval
+410,19,AHPC,Cy3,20x,RIP,trainval
+483,11,AHPC,Cy3,20x,MAP2ab,trainval
+2947,59,RPC,Cy3,40x,MAP2ab,trainval
+229,0,AHPC,Cy3,20x,PI,trainval
+1755,0,AHPC,Cy3,20x,PI,trainval
+2240,95,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1085,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1721,0,AHPC,Cy3,20x,PI,trainval
+1462,0,AHPC,Cy3,20x,PI,trainval
+649,6,AHPC,Cy3,20x,PI,trainval
+2386,25,AHPC,Cy3,20x,PI,trainval
+2645,18,AHPC,Cy3,20x,PI,trainval
+2039,42,AHPC,Cy3,20x,MAP2ab,trainval
+1816,9,AHPC,AF488,20x,MAP2ab,trainval
+2652,22,AHPC,Cy3,20x,PI,trainval
+453,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+1793,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1653,3,AHPC,AF488,20x,GFAP + Ki67,trainval
+1777,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2203,0,AHPC,Cy3,20x,PI,trainval
+2152,0,AHPC,Cy3,20x,PI,trainval
+332,0,AHPC,Cy3,20x,PI,trainval
+1774,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+278,1,AHPC,Cy3,20x,PI,trainval
+416,18,AHPC,Cy3,20x,RIP,trainval
+980,9,AHPC,Cy3,20x,RIP,trainval
+1674,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+751,0,AHPC,Cy3,20x,PI,trainval
+2886,65,RPC,Cy3,40x,MAP2ab,trainval
+2363,85,AHPC,Cy3,20x,PI,trainval
+688,0,AHPC,Cy3,20x,PI,trainval
+2848,84,RPC,Cy3,40x,TuJ1,trainval
+222,0,AHPC,Cy3,20x,PI,trainval
+2402,118,AHPC,Cy3,20x,PI,trainval
+2288,1,AHPC,Cy3,20x,GFAP,trainval
+2750,147,RPC,Cy3,40x,TuJ1,trainval
+2374,115,AHPC,Cy3,20x,PI,trainval
+2292,0,AHPC,Cy3,20x,GFAP,trainval
+3013,12,RPC,Cy3,40x,TuJ1,trainval
+2383,79,AHPC,Cy3,20x,PI,trainval
+1115,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1320,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2732,101,RPC,Cy3,40x,TuJ1,trainval
+277,0,AHPC,Cy3,20x,PI,trainval
+1124,20,AHPC,Cy3,20x,MAP2ab,trainval
+2925,88,RPC,Cy3,40x,TuJ1,trainval
+1543,9,AHPC,Cy3,20x,MAP2ab,trainval
+1025,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+140,6,AHPC,Cy3,20x,MAP2ab,trainval
+1939,1,AHPC,Cy3,20x,PI,trainval
+1568,5,AHPC,Cy3,20x,MAP2ab,trainval
+2674,126,RPC,Cy3,40x,TuJ1,trainval
+95,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1069,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2837,40,RPC,Cy3,40x,MAP2ab,trainval
+865,11,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2888,43,RPC,Cy3,40x,MAP2ab,trainval
+1423,5,AHPC,Cy3,20x,PI,trainval
+1871,91,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+1795,44,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2675,165,RPC,Cy3,40x,TuJ1,trainval
+1027,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1844,0,AHPC,AF488,20x,MAP2ab,trainval
+1376,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2738,61,RPC,Cy3,40x,TuJ1,trainval
+835,4,AHPC,AF488,20x,MAP2ab,trainval
+2948,38,RPC,Cy3,40x,MAP2ab,trainval
+2459,90,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1264,18,AHPC,Cy3,20x,RIP,trainval
+2968,21,RPC,Cy3,40x,MAP2ab,trainval
+1979,28,AHPC,Cy3,20x,RIP,trainval
+2218,0,AHPC,Cy3,20x,PI,trainval
+1429,3,AHPC,Cy3,20x,PI,trainval
+2872,62,RPC,Cy3,40x,MAP2ab,trainval
+2449,121,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1783,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2438,56,AHPC,AF488,20x,Ki67 + RIP,trainval
+1981,22,AHPC,Cy3,20x,RIP,trainval
+2927,25,RPC,Cy3,40x,TuJ1,trainval
+786,3,AHPC,Cy3,20x,PI,trainval
+874,54,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1235,0,AHPC,Cy3,20x,PI,trainval
+2768,8,RPC,Cy3,40x,GFAP,trainval
+2141,0,AHPC,Cy3,20x,PI,trainval
+815,5,AHPC,AF488,20x,MAP2ab,trainval
+2669,51,AHPC,Cy3,20x,PI,trainval
+2410,68,AHPC,Cy3,20x,PI,trainval
+2147,0,AHPC,Cy3,20x,PI,trainval
+1837,21,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+1283,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1434,4,AHPC,Cy3,20x,PI,trainval
+2770,11,RPC,Cy3,40x,GFAP,trainval
+1536,24,AHPC,Cy3,20x,RIP,trainval
+438,9,AHPC,AF488,20x,GFAP + Ki67,trainval
+2160,0,AHPC,Cy3,20x,PI,trainval
+2151,2,AHPC,Cy3,20x,PI,trainval
+2736,76,RPC,Cy3,40x,TuJ1,trainval
+1137,21,AHPC,Cy3,20x,MAP2ab,trainval
+902,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2328,74,AHPC,Cy3,20x,PI,trainval
+2146,0,AHPC,Cy3,20x,PI,trainval
+893,48,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+259,0,AHPC,Cy3,20x,PI,trainval
+2247,7,AHPC,Cy3,20x,MAP2ab,trainval
+79,26,AHPC,Cy3,20x,RIP,trainval
+870,34,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+832,12,AHPC,AF488,20x,MAP2ab,trainval
+233,0,AHPC,Cy3,20x,PI,trainval
+3012,18,RPC,Cy3,40x,TuJ1,trainval
+896,3,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1846,2,AHPC,AF488,20x,MAP2ab,trainval
+1650,4,AHPC,AF488,20x,GFAP + Ki67,trainval
+385,0,AHPC,Cy3,20x,PI,trainval
+1181,0,AHPC,Cy3,20x,PI,trainval
+885,4,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2527,103,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2482,183,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2602,54,AHPC,Cy3,20x,PI,trainval
+2672,105,AHPC,Cy3,20x,PI,trainval
+32,1,AHPC,Cy3,20x,PI,trainval
+1034,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+545,12,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+945,0,AHPC,Cy3,20x,PI,trainval
+48,13,AHPC,Cy3,20x,RIP,trainval
+845,0,AHPC,Cy3,20x,MAP2ab,trainval
+11,0,AHPC,Cy3,20x,PI,trainval
+2111,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1967,35,AHPC,Cy3,20x,RIP,trainval
+1311,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+2561,1,AHPC,Cy3,20x,GFAP,trainval
+314,14,AHPC,Cy3,20x,PI,trainval
+2211,0,AHPC,Cy3,20x,PI,trainval
+599,0,AHPC,Cy3,20x,PI,trainval
+1277,25,AHPC,Cy3,20x,RIP,trainval
+1620,8,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2769,2,RPC,Cy3,40x,GFAP,trainval
+852,11,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+335,0,AHPC,Cy3,20x,PI,trainval
+292,0,AHPC,Cy3,20x,PI,trainval
+2583,34,AHPC,Cy3,20x,PI,trainval
+841,17,AHPC,AF488,20x,MAP2ab,trainval
+2186,1,AHPC,Cy3,20x,PI,trainval
+2649,22,AHPC,Cy3,20x,PI,trainval
+1685,0,AHPC,Cy3,20x,PI,trainval
+2266,98,AHPC,Cy3,20x,Ki67 + RIP,trainval
+285,3,AHPC,Cy3,20x,PI,trainval
+1767,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+1020,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+305,0,AHPC,Cy3,20x,PI,trainval
+1959,0,AHPC,Cy3,20x,PI,trainval
+1955,1,AHPC,Cy3,20x,PI,trainval
+2377,106,AHPC,Cy3,20x,PI,trainval
+1210,0,AHPC,Cy3,20x,PI,trainval
+1545,5,AHPC,Cy3,20x,MAP2ab,trainval
+1692,0,AHPC,Cy3,20x,PI,trainval
+1634,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2751,157,RPC,Cy3,40x,TuJ1,trainval
+56,14,AHPC,Cy3,20x,RIP,trainval
+1379,16,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2864,74,RPC,Cy3,40x,TuJ1,trainval
+764,0,AHPC,Cy3,20x,PI,trainval
+2182,5,AHPC,Cy3,20x,PI,trainval
+801,0,AHPC,Cy3,20x,MAP2ab,trainval
+2300,0,AHPC,Cy3,20x,GFAP,trainval
+641,4,AHPC,Cy3,20x,PI,trainval
+263,0,AHPC,Cy3,20x,PI,trainval
+1419,4,AHPC,Cy3,20x,PI,trainval
+2932,101,RPC,Cy3,40x,TuJ1,trainval
+1988,26,AHPC,Cy3,20x,RIP,trainval
+668,0,AHPC,Cy3,20x,PI,trainval
+1628,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1758,0,AHPC,Cy3,20x,PI,trainval
+2946,25,RPC,Cy3,40x,MAP2ab,trainval
+2490,112,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1858,41,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+2992,16,RPC,Cy3,40x,TuJ1,trainval
+2129,0,AHPC,Cy3,20x,PI,trainval
+1464,1,AHPC,Cy3,20x,PI,trainval
+1290,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+758,0,AHPC,Cy3,20x,PI,trainval
+1860,56,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+316,2,AHPC,Cy3,20x,PI,trainval
+2581,23,AHPC,Cy3,20x,PI,trainval
+2259,175,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1377,14,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+604,0,AHPC,Cy3,20x,PI,trainval
+1847,0,AHPC,AF488,20x,MAP2ab,trainval
+1651,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+530,4,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1024,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1450,3,AHPC,Cy3,20x,PI,trainval
+2606,26,AHPC,Cy3,20x,PI,trainval
+1665,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+2573,0,AHPC,Cy3,20x,GFAP,trainval
+2547,129,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+588,0,AHPC,Cy3,20x,PI,trainval
+1558,9,AHPC,Cy3,20x,MAP2ab,trainval
+2578,24,AHPC,Cy3,20x,PI,trainval
+2558,101,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1961,24,AHPC,Cy3,20x,RIP,trainval
+1473,0,AHPC,Cy3,20x,PI,trainval
+2733,76,RPC,Cy3,40x,TuJ1,trainval
+774,0,AHPC,Cy3,20x,PI,trainval
+666,2,AHPC,Cy3,20x,PI,trainval
+1294,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+452,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+2752,216,RPC,Cy3,40x,TuJ1,trainval
+880,59,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1075,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1829,49,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+854,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1894,5,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2190,2,AHPC,Cy3,20x,PI,trainval
+900,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1647,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+2107,42,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1420,0,AHPC,Cy3,20x,PI,trainval
+793,0,AHPC,AF488,20x,MAP2ab,trainval
+2057,14,AHPC,Cy3,20x,MAP2ab,trainval
+1737,0,AHPC,Cy3,20x,PI,trainval
+368,0,AHPC,Cy3,20x,PI,trainval
+124,3,AHPC,AF488,20x,GFAP + Ki67,trainval
+1367,4,AHPC,Cy3,20x,MAP2ab,trainval
+2306,0,AHPC,Cy3,20x,GFAP,trainval
+1972,25,AHPC,Cy3,20x,RIP,trainval
+1275,19,AHPC,Cy3,20x,RIP,trainval
+625,0,AHPC,Cy3,20x,PI,trainval
+2795,2,RPC,Cy3,40x,TuJ1,trainval
+2110,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+525,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2212,0,AHPC,Cy3,20x,PI,trainval
+290,0,AHPC,Cy3,20x,PI,trainval
+1554,8,AHPC,Cy3,20x,MAP2ab,trainval
+1656,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+1261,13,AHPC,Cy3,20x,RIP,trainval
+179,4,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2478,117,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2420,36,AHPC,Cy3,20x,PI,trainval
+2484,23,AHPC,AF488,20x,Ki67 + RIP,trainval
+848,0,AHPC,AF488,20x,MAP2ab,trainval
+1926,0,AHPC,Cy3,20x,PI,trainval
+1084,1,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2929,65,RPC,Cy3,40x,TuJ1,trainval
+2475,183,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1612,10,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2404,50,AHPC,Cy3,20x,PI,trainval
+2472,173,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1384,1,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2280,73,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1762,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+282,0,AHPC,Cy3,20x,PI,trainval
+2789,39,RPC,Cy3,40x,TuJ1,trainval
+182,22,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2511,94,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2715,74,RPC,Cy3,40x,GFAP,trainval
+2076,1,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2120,0,AHPC,Cy3,20x,PI,trainval
+2563,0,AHPC,Cy3,20x,GFAP,trainval
+2348,88,AHPC,Cy3,20x,PI,trainval
+1194,0,AHPC,Cy3,20x,PI,trainval
+2730,75,RPC,Cy3,40x,TuJ1,trainval
+1903,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+1965,57,AHPC,Cy3,20x,RIP,trainval
+108,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+307,10,AHPC,Cy3,20x,PI,trainval
+337,1,AHPC,Cy3,20x,PI,trainval
+1080,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1900,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1824,36,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+2866,80,RPC,Cy3,40x,TuJ1,trainval
+1889,10,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1930,2,AHPC,Cy3,20x,PI,trainval
+209,27,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+982,31,AHPC,Cy3,20x,RIP,trainval
+2835,43,RPC,Cy3,40x,MAP2ab,trainval
+240,0,AHPC,Cy3,20x,PI,trainval
+92,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1627,2,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1916,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2481,183,AHPC,Cy3,20x,Ki67 + RIP,trainval
+217,210,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+379,0,AHPC,Cy3,20x,PI,trainval
+541,12,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2177,0,AHPC,Cy3,20x,PI,trainval
+2090,27,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+81,8,AHPC,AF488,20x,GFAP + Ki67,trainval
+2891,41,RPC,Cy3,40x,MAP2ab,trainval
+2187,0,AHPC,Cy3,20x,PI,trainval
+208,83,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+891,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+6,1,AHPC,Cy3,20x,PI,trainval
+2380,31,AHPC,Cy3,20x,PI,trainval
+1594,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+58,24,AHPC,Cy3,20x,RIP,trainval
+1397,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2492,214,AHPC,Cy3,20x,Ki67 + RIP,trainval
+849,20,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1326,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2568,0,AHPC,Cy3,20x,GFAP,trainval
+985,3,AHPC,Cy3,20x,RIP,trainval
+1732,0,AHPC,Cy3,20x,PI,trainval
+1781,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+1082,3,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2201,0,AHPC,Cy3,20x,PI,trainval
+2700,62,RPC,Cy3,40x,TuJ1,trainval
+2538,142,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1621,8,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2851,60,RPC,Cy3,40x,TuJ1,trainval
+791,34,AHPC,AF488,20x,MAP2ab,trainval
+9,0,AHPC,Cy3,20x,PI,trainval
+538,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+824,0,AHPC,Cy3,20x,MAP2ab,trainval
+2556,100,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2081,19,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2174,4,AHPC,Cy3,20x,PI,trainval
+2986,17,RPC,Cy3,40x,TuJ1,trainval
+631,0,AHPC,Cy3,20x,PI,trainval
+2237,0,AHPC,Cy3,20x,PI,trainval
+1897,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+634,0,AHPC,Cy3,20x,PI,trainval
+428,17,AHPC,Cy3,20x,RIP,trainval
+42,12,AHPC,Cy3,20x,RIP,trainval
+2933,116,RPC,Cy3,40x,TuJ1,trainval
+740,18,AHPC,Cy3,20x,PI,trainval
+1192,0,AHPC,Cy3,20x,PI,trainval
+879,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2836,42,RPC,Cy3,40x,MAP2ab,trainval
+197,383,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2965,23,RPC,Cy3,40x,MAP2ab,trainval
+2628,217,AHPC,Cy3,20x,PI,trainval
+1211,0,AHPC,Cy3,20x,PI,trainval
+2496,272,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2037,17,AHPC,Cy3,20x,MAP2ab,trainval
+2162,0,AHPC,Cy3,20x,PI,trainval
+2678,124,RPC,Cy3,40x,TuJ1,trainval
+444,3,AHPC,AF488,20x,GFAP + Ki67,trainval
+2623,117,AHPC,Cy3,20x,PI,trainval
+591,0,AHPC,Cy3,20x,PI,trainval
+345,0,AHPC,Cy3,20x,PI,trainval
+2863,88,RPC,Cy3,40x,TuJ1,trainval
+317,3,AHPC,Cy3,20x,PI,trainval
+1156,3,AHPC,Cy3,20x,MAP2ab,trainval
+2565,0,AHPC,Cy3,20x,GFAP,trainval
+2450,35,AHPC,AF488,20x,Ki67 + RIP,trainval
+1643,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1241,13,AHPC,Cy3,20x,RIP,trainval
+1521,15,AHPC,Cy3,20x,RIP,trainval
+1355,8,AHPC,Cy3,20x,MAP2ab,trainval
+120,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+805,0,AHPC,Cy3,20x,MAP2ab,trainval
+1029,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1169,0,AHPC,Cy3,20x,PI,trainval
+1986,21,AHPC,Cy3,20x,RIP,trainval
+1994,38,AHPC,Cy3,20x,RIP,trainval
+1971,21,AHPC,Cy3,20x,RIP,trainval
+1391,7,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+338,0,AHPC,Cy3,20x,PI,trainval
+2196,3,AHPC,Cy3,20x,PI,trainval
+413,10,AHPC,Cy3,20x,RIP,trainval
+1600,8,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1108,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+579,0,AHPC,Cy3,20x,PI,trainval
+193,2,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+380,0,AHPC,Cy3,20x,PI,trainval
+264,0,AHPC,Cy3,20x,PI,trainval
+2470,133,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1507,16,AHPC,Cy3,20x,RIP,trainval
+1053,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+2388,42,AHPC,Cy3,20x,PI,trainval
+2332,123,AHPC,Cy3,20x,PI,trainval
+181,26,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2086,41,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2317,0,AHPC,Cy3,20x,GFAP,trainval
+1252,5,AHPC,Cy3,20x,RIP,trainval
+2610,20,AHPC,Cy3,20x,PI,trainval
+569,0,AHPC,Cy3,20x,PI,trainval
+1253,16,AHPC,Cy3,20x,RIP,trainval
+1363,5,AHPC,Cy3,20x,MAP2ab,trainval
+2528,195,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1499,11,AHPC,Cy3,20x,RIP,trainval
+2804,92,RPC,Cy3,40x,TuJ1,trainval
+2914,56,RPC,Cy3,40x,TuJ1,trainval
+2757,136,RPC,Cy3,40x,TuJ1,trainval
+2291,17,AHPC,Cy3,20x,GFAP,trainval
+1330,4,AHPC,Cy3,20x,MAP2ab,trainval
+2114,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1671,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+2798,127,RPC,Cy3,40x,TuJ1,trainval
+2273,187,AHPC,Cy3,20x,Ki67 + RIP,trainval
+2131,0,AHPC,Cy3,20x,PI,trainval
+887,2,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2893,44,RPC,Cy3,40x,MAP2ab,trainval
+2172,3,AHPC,Cy3,20x,PI,trainval
+2299,0,AHPC,Cy3,20x,GFAP,trainval
+245,0,AHPC,Cy3,20x,PI,trainval
+1631,1,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+149,6,AHPC,Cy3,20x,MAP2ab,trainval
+2803,85,RPC,Cy3,40x,TuJ1,trainval
+1760,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+2399,193,AHPC,Cy3,20x,PI,trainval
+1911,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+920,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1295,6,AHPC,AF488,20x,GFAP + Ki67,trainval
+1240,12,AHPC,Cy3,20x,RIP,trainval
+1079,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2910,61,RPC,Cy3,40x,TuJ1,trainval
+2411,296,AHPC,Cy3,20x,PI,trainval
+903,0,AHPC,AF488,20x,GFAP + Ki67,trainval
+2241,228,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2797,91,RPC,Cy3,40x,TuJ1,trainval
+1607,2,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2560,0,AHPC,Cy3,20x,GFAP,trainval
+2084,23,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2970,19,RPC,Cy3,40x,MAP2ab,trainval
+566,0,AHPC,Cy3,20x,PI,trainval
+251,0,AHPC,Cy3,20x,PI,trainval
+463,5,AHPC,AF488,20x,GFAP + Ki67,trainval
+2890,42,RPC,Cy3,40x,MAP2ab,trainval
+972,0,AHPC,Cy3,20x,PI,trainval
+2509,276,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1969,22,AHPC,Cy3,20x,RIP,trainval
+250,0,AHPC,Cy3,20x,PI,trainval
+2524,184,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2950,54,RPC,Cy3,40x,MAP2ab,trainval
+1877,19,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2171,0,AHPC,Cy3,20x,PI,trainval
+1045,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+727,0,AHPC,Cy3,20x,PI,trainval
+1488,0,AHPC,Cy3,20x,PI,trainval
+2293,0,AHPC,Cy3,20x,GFAP,trainval
+1023,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+608,0,AHPC,Cy3,20x,PI,trainval
+473,6,AHPC,Cy3,20x,MAP2ab,trainval
+1095,10,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1057,9,AHPC,AF488,20x,GFAP + Ki67,trainval
+1490,1,AHPC,Cy3,20x,PI,trainval
+2716,49,RPC,Cy3,40x,GFAP,trainval
+1560,2,AHPC,Cy3,20x,MAP2ab,trainval
+726,0,AHPC,Cy3,20x,PI,trainval
+1820,0,AHPC,AF488,20x,MAP2ab,trainval
+1286,3,AHPC,AF488,20x,GFAP + Ki67,trainval
+390,1,AHPC,Cy3,20x,PI,trainval
+138,55,AHPC,Cy3,20x,MAP2ab,trainval
+2137,0,AHPC,Cy3,20x,PI,trainval
+2993,14,RPC,Cy3,40x,TuJ1,trainval
+792,31,AHPC,AF488,20x,MAP2ab,trainval
+698,3,AHPC,Cy3,20x,PI,trainval
+819,0,AHPC,Cy3,20x,MAP2ab,trainval
+2552,18,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1231,2,AHPC,Cy3,20x,PI,trainval
+1408,96,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2592,17,AHPC,Cy3,20x,PI,trainval
+2544,157,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+74,22,AHPC,Cy3,20x,RIP,trainval
+840,0,AHPC,Cy3,20x,MAP2ab,trainval
+2214,0,AHPC,Cy3,20x,PI,trainval
+2432,35,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1538,4,AHPC,Cy3,20x,MAP2ab,trainval
+2059,16,AHPC,Cy3,20x,MAP2ab,trainval
+1074,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2617,43,AHPC,Cy3,20x,PI,trainval
+2229,0,AHPC,Cy3,20x,PI,trainval
+242,0,AHPC,Cy3,20x,PI,trainval
+1406,28,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1347,6,AHPC,Cy3,20x,MAP2ab,trainval
+419,34,AHPC,Cy3,20x,RIP,trainval
+1611,5,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1203,0,AHPC,Cy3,20x,PI,trainval
+648,0,AHPC,Cy3,20x,PI,trainval
+962,1,AHPC,Cy3,20x,PI,trainval
+842,30,AHPC,AF488,20x,MAP2ab,trainval
+2521,128,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2516,134,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2973,18,RPC,Cy3,40x,MAP2ab,trainval
+2799,75,RPC,Cy3,40x,TuJ1,trainval
+2006,2,AHPC,AF488,20x,GFAP + Ki67,trainval
+978,23,AHPC,Cy3,20x,RIP,trainval
+1369,14,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2566,0,AHPC,Cy3,20x,GFAP,trainval
+2417,145,AHPC,Cy3,20x,PI,trainval
+384,0,AHPC,Cy3,20x,PI,trainval
+968,0,AHPC,Cy3,20x,PI,trainval
+2352,67,AHPC,Cy3,20x,PI,trainval
+2829,55,RPC,Cy3,40x,MAP2ab,trainval
+890,27,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2263,109,AHPC,Cy3,20x,Ki67 + RIP,trainval
+1983,13,AHPC,Cy3,20x,RIP,trainval
+2832,52,RPC,Cy3,40x,MAP2ab,trainval
+126,3,AHPC,AF488,20x,GFAP + Ki67,trainval
+350,0,AHPC,Cy3,20x,PI,trainval
+44,12,AHPC,Cy3,20x,RIP,trainval
+1908,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+797,9,AHPC,AF488,20x,MAP2ab,trainval
+2894,51,RPC,Cy3,40x,MAP2ab,trainval
+1164,0,AHPC,Cy3,20x,PI,trainval
+346,0,AHPC,Cy3,20x,PI,trainval
+582,0,AHPC,Cy3,20x,PI,trainval
+504,13,AHPC,Cy3,20x,MAP2ab,trainval
+2794,5,RPC,Cy3,40x,TuJ1,trainval
+1316,0,AHPC,Cy3,20x,GFAP + Ki67,trainval
+1524,9,AHPC,Cy3,20x,RIP,trainval
+2370,68,AHPC,Cy3,20x,PI,trainval
+1989,15,AHPC,Cy3,20x,RIP,trainval
+2282,0,AHPC,Cy3,20x,GFAP,trainval
+2646,32,AHPC,Cy3,20x,PI,trainval
+817,8,AHPC,AF488,20x,MAP2ab,trainval
+2051,23,AHPC,Cy3,20x,MAP2ab,trainval
+3014,21,RPC,Cy3,40x,TuJ1,trainval
+2737,101,RPC,Cy3,40x,TuJ1,trainval
+323,0,AHPC,Cy3,20x,PI,trainval
+232,0,AHPC,Cy3,20x,PI,trainval
+555,8,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+748,0,AHPC,Cy3,20x,PI,trainval
+952,0,AHPC,Cy3,20x,PI,trainval
+1372,8,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+173,3,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2858,71,RPC,Cy3,40x,TuJ1,trainval
+31,0,AHPC,Cy3,20x,PI,trainval
+2562,6,AHPC,Cy3,20x,GFAP,trainval
+1228,0,AHPC,Cy3,20x,PI,trainval
+51,15,AHPC,Cy3,20x,RIP,trainval
+469,21,AHPC,Cy3,20x,MAP2ab,trainval
+1244,8,AHPC,Cy3,20x,RIP,trainval
+1449,4,AHPC,Cy3,20x,PI,trainval
+2345,68,AHPC,Cy3,20x,PI,trainval
+867,8,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+660,0,AHPC,Cy3,20x,PI,trainval
+2455,142,AHPC,Cy3,20x,Ki67 + RIP,trainval
+367,0,AHPC,Cy3,20x,PI,trainval
+1002,21,AHPC,Cy3,20x,RIP,trainval
+2815,82,RPC,Cy3,40x,MAP2ab,trainval
+858,0,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+2089,63,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2011,1,AHPC,AF488,20x,GFAP + Ki67,trainval
+2801,102,RPC,Cy3,40x,TuJ1,trainval
+1093,12,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2234,12,AHPC,Cy3,20x,PI,trainval
+198,34,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2535,242,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+2251,289,AHPC,Cy3,20x,Ki67 + RIP,trainval
+364,0,AHPC,Cy3,20x,PI,trainval
+1349,3,AHPC,Cy3,20x,MAP2ab,trainval
+1833,9,AHPC,Cy3,20x,MAP2ab + RIP,trainval
+2424,39,AHPC,AF488,20x,MAP2ab,trainval
+938,0,AHPC,Cy3,20x,PI,trainval
+1359,3,AHPC,Cy3,20x,MAP2ab,trainval
+1534,16,AHPC,Cy3,20x,RIP,trainval
+796,0,AHPC,AF488,20x,MAP2ab,trainval
+387,0,AHPC,Cy3,20x,PI,trainval
+1242,11,AHPC,Cy3,20x,RIP,trainval
+2787,86,RPC,Cy3,40x,TuJ1,trainval
+144,6,AHPC,Cy3,20x,MAP2ab,trainval
+2310,1,AHPC,Cy3,20x,GFAP,trainval
+2861,76,RPC,Cy3,40x,TuJ1,trainval
+2934,53,RPC,Cy3,40x,TuJ1,trainval
+422,59,AHPC,Cy3,20x,RIP,trainval
+2850,85,RPC,Cy3,40x,TuJ1,trainval
+513,6,AHPC,AF488,20x,Ki67 + TuJ1,trainval
+1679,0,AHPC,Cy3,20x,PI,trainval
+2539,163,AHPC,Cy3,20x,Ki67 + TuJ1,trainval
+1346,11,AHPC,Cy3,20x,MAP2ab,trainval
+2422,128,AHPC,AF488,20x,MAP2ab,test
+1150,15,AHPC,Cy3,20x,MAP2ab,test
+2260,257,AHPC,Cy3,20x,Ki67 + RIP,test
+93,0,AHPC,Cy3,20x,GFAP + Ki67,test
+3008,15,RPC,Cy3,40x,TuJ1,test
+2441,111,AHPC,Cy3,20x,Ki67 + RIP,test
+2679,110,RPC,Cy3,40x,TuJ1,test
+2316,12,AHPC,Cy3,20x,GFAP,test
+272,0,AHPC,Cy3,20x,PI,test
+1823,6,AHPC,Cy3,20x,MAP2ab + RIP,test
+1510,8,AHPC,Cy3,20x,RIP,test
+1872,1,AHPC,AF488,20x,Ki67 + TuJ1,test
+203,5,AHPC,Cy3,20x,Ki67 + TuJ1,test
+540,1,AHPC,AF488,20x,Ki67 + TuJ1,test
+2676,128,RPC,Cy3,40x,TuJ1,test
+445,0,AHPC,AF488,20x,GFAP + Ki67,test
+1699,0,AHPC,Cy3,20x,PI,test
+1663,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2440,5,AHPC,AF488,20x,Ki67 + RIP,test
+1515,7,AHPC,Cy3,20x,RIP,test
+1695,0,AHPC,Cy3,20x,PI,test
+2974,16,RPC,Cy3,40x,MAP2ab,test
+1067,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2302,2,AHPC,Cy3,20x,GFAP,test
+2318,7,AHPC,Cy3,20x,GFAP,test
+0,0,AHPC,Cy3,20x,PI,test
+2061,16,AHPC,Cy3,20x,MAP2ab,test
+1307,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2682,132,RPC,Cy3,40x,TuJ1,test
+2588,64,AHPC,Cy3,20x,PI,test
+576,0,AHPC,Cy3,20x,PI,test
+941,4,AHPC,Cy3,20x,PI,test
+855,1,AHPC,AF488,20x,Ki67 + TuJ1,test
+2228,0,AHPC,Cy3,20x,PI,test
+2236,0,AHPC,Cy3,20x,PI,test
+2012,3,AHPC,AF488,20x,GFAP + Ki67,test
+1915,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2099,25,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1863,91,AHPC,Cy3,20x,MAP2ab + RIP,test
+547,7,AHPC,AF488,20x,Ki67 + TuJ1,test
+1716,0,AHPC,Cy3,20x,PI,test
+2972,20,RPC,Cy3,40x,MAP2ab,test
+407,10,AHPC,Cy3,20x,RIP,test
+22,0,AHPC,Cy3,20x,PI,test
+567,0,AHPC,Cy3,20x,PI,test
+503,3,AHPC,Cy3,20x,MAP2ab,test
+255,0,AHPC,Cy3,20x,PI,test
+1655,0,AHPC,Cy3,20x,GFAP + Ki67,test
+623,0,AHPC,Cy3,20x,PI,test
+2699,74,RPC,Cy3,40x,TuJ1,test
+2551,95,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2593,12,AHPC,Cy3,20x,PI,test
+2245,7,AHPC,Cy3,20x,MAP2ab,test
+904,9,AHPC,AF488,20x,GFAP + Ki67,test
+2150,0,AHPC,Cy3,20x,PI,test
+2221,0,AHPC,Cy3,20x,PI,test
+2928,63,RPC,Cy3,40x,TuJ1,test
+478,5,AHPC,Cy3,20x,MAP2ab,test
+767,0,AHPC,Cy3,20x,PI,test
+1184,0,AHPC,Cy3,20x,PI,test
+2215,1,AHPC,Cy3,20x,PI,test
+927,12,AHPC,AF488,20x,GFAP + Ki67,test
+424,18,AHPC,Cy3,20x,RIP,test
+1453,0,AHPC,Cy3,20x,PI,test
+1879,33,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2250,1,AHPC,Cy3,20x,MAP2ab,test
+2506,128,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1314,6,AHPC,AF488,20x,GFAP + Ki67,test
+2609,37,AHPC,Cy3,20x,PI,test
+2734,53,RPC,Cy3,40x,TuJ1,test
+1131,7,AHPC,Cy3,20x,MAP2ab,test
+1603,3,AHPC,AF488,20x,Ki67 + TuJ1,test
+2642,29,AHPC,Cy3,20x,PI,test
+2344,68,AHPC,Cy3,20x,PI,test
+2393,72,AHPC,Cy3,20x,PI,test
+991,67,AHPC,Cy3,20x,RIP,test
+1087,8,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1887,18,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2406,117,AHPC,Cy3,20x,PI,test
+2168,0,AHPC,Cy3,20x,PI,test
+615,0,AHPC,Cy3,20x,PI,test
+697,0,AHPC,Cy3,20x,PI,test
+1718,0,AHPC,Cy3,20x,PI,test
+614,0,AHPC,Cy3,20x,PI,test
+1161,0,AHPC,Cy3,20x,PI,test
+2068,10,AHPC,Cy3,20x,MAP2ab,test
+2253,318,AHPC,Cy3,20x,Ki67 + RIP,test
+26,0,AHPC,Cy3,20x,PI,test
+611,0,AHPC,Cy3,20x,PI,test
+2048,10,AHPC,Cy3,20x,MAP2ab,test
+2022,7,AHPC,AF488,20x,GFAP + Ki67,test
+665,14,AHPC,Cy3,20x,PI,test
+1862,28,AHPC,Cy3,20x,MAP2ab + RIP,test
+926,0,AHPC,Cy3,20x,GFAP + Ki67,test
+1790,28,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2463,160,AHPC,Cy3,20x,Ki67 + RIP,test
+1635,1,AHPC,AF488,20x,Ki67 + TuJ1,test
+2276,75,AHPC,Cy3,20x,Ki67 + RIP,test
+2793,82,RPC,Cy3,40x,TuJ1,test
+2636,296,AHPC,Cy3,20x,PI,test
+133,9,AHPC,Cy3,20x,MAP2ab,test
+1998,34,AHPC,Cy3,20x,RIP,test
+2035,23,AHPC,Cy3,20x,MAP2ab,test
+154,3,AHPC,Cy3,20x,MAP2ab,test
+2243,159,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1658,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2677,127,RPC,Cy3,40x,TuJ1,test
+1940,0,AHPC,Cy3,20x,PI,test
+2347,46,AHPC,Cy3,20x,PI,test
+477,17,AHPC,Cy3,20x,MAP2ab,test
+2265,57,AHPC,Cy3,20x,Ki67 + RIP,test
+2448,221,AHPC,Cy3,20x,Ki67 + RIP,test
+464,0,AHPC,AF488,20x,GFAP + Ki67,test
+859,4,AHPC,AF488,20x,Ki67 + TuJ1,test
+194,1,AHPC,AF488,20x,Ki67 + TuJ1,test
+1398,49,AHPC,Cy3,20x,Ki67 + TuJ1,test
+671,0,AHPC,Cy3,20x,PI,test
+2589,17,AHPC,Cy3,20x,PI,test
+1015,8,AHPC,Cy3,20x,RIP,test
+1413,63,AHPC,Cy3,20x,Ki67 + TuJ1,test
+101,0,AHPC,Cy3,20x,GFAP + Ki67,test
+1354,8,AHPC,Cy3,20x,MAP2ab,test
+694,0,AHPC,Cy3,20x,PI,test
+1152,10,AHPC,Cy3,20x,MAP2ab,test
+1431,8,AHPC,Cy3,20x,PI,test
+1808,7,AHPC,AF488,20x,Ki67 + TuJ1,test
+1750,0,AHPC,Cy3,20x,PI,test
+814,0,AHPC,Cy3,20x,MAP2ab,test
+63,17,AHPC,Cy3,20x,RIP,test
+1302,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2621,52,AHPC,Cy3,20x,PI,test
+2788,1,RPC,Cy3,40x,TuJ1,test
+2717,28,RPC,Cy3,40x,GFAP,test
+2574,0,AHPC,Cy3,20x,GFAP,test
+967,0,AHPC,Cy3,20x,PI,test
+399,56,AHPC,Cy3,20x,RIP,test
+190,120,AHPC,Cy3,20x,Ki67 + TuJ1,test
+37,2,AHPC,Cy3,20x,PI,test
+2366,57,AHPC,Cy3,20x,PI,test
+2444,151,AHPC,Cy3,20x,Ki67 + RIP,test
+2808,59,RPC,Cy3,40x,MAP2ab,test
+651,0,AHPC,Cy3,20x,PI,test
+2887,36,RPC,Cy3,40x,MAP2ab,test
+986,2,AHPC,Cy3,20x,RIP,test
+1344,0,AHPC,Cy3,20x,MAP2ab,test
+2088,1,AHPC,AF488,20x,Ki67 + TuJ1,test
+595,0,AHPC,Cy3,20x,PI,test
+644,0,AHPC,Cy3,20x,PI,test
+2394,68,AHPC,Cy3,20x,PI,test
+1636,11,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2272,131,AHPC,Cy3,20x,Ki67 + RIP,test
+3005,18,RPC,Cy3,40x,TuJ1,test
+1848,0,AHPC,AF488,20x,MAP2ab,test
+721,0,AHPC,Cy3,20x,PI,test
+2029,4,AHPC,AF488,20x,GFAP + Ki67,test
+172,57,AHPC,Cy3,20x,Ki67 + TuJ1,test
+287,0,AHPC,Cy3,20x,PI,test
+914,4,AHPC,AF488,20x,GFAP + Ki67,test
+2749,179,RPC,Cy3,40x,TuJ1,test
+1724,0,AHPC,Cy3,20x,PI,test
+2802,116,RPC,Cy3,40x,TuJ1,test
+479,9,AHPC,Cy3,20x,MAP2ab,test
+1078,4,AHPC,Cy3,20x,Ki67 + TuJ1,test
+754,0,AHPC,Cy3,20x,PI,test
+1399,3,AHPC,AF488,20x,Ki67 + TuJ1,test
+2159,0,AHPC,Cy3,20x,PI,test
+947,1,AHPC,Cy3,20x,PI,test
+15,2,AHPC,Cy3,20x,PI,test
+655,0,AHPC,Cy3,20x,PI,test
+1353,10,AHPC,Cy3,20x,MAP2ab,test
+1904,0,AHPC,AF488,20x,GFAP + Ki67,test
+1592,0,AHPC,AF488,20x,Ki67 + TuJ1,test
+1373,17,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1749,0,AHPC,Cy3,20x,PI,test
+1789,1,AHPC,AF488,20x,Ki67 + TuJ1,test
+1999,17,AHPC,Cy3,20x,RIP,test
+1921,5,AHPC,AF488,20x,GFAP + Ki67,test
+148,60,AHPC,Cy3,20x,MAP2ab,test
+1056,0,AHPC,Cy3,20x,GFAP + Ki67,test
+619,0,AHPC,Cy3,20x,PI,test
+2987,12,RPC,Cy3,40x,TuJ1,test
+813,44,AHPC,AF488,20x,MAP2ab,test
+171,7,AHPC,AF488,20x,Ki67 + TuJ1,test
+1288,2,AHPC,AF488,20x,GFAP + Ki67,test
+693,2,AHPC,Cy3,20x,PI,test
+2392,0,AHPC,Cy3,20x,PI,test
+341,0,AHPC,Cy3,20x,PI,test
+2230,0,AHPC,Cy3,20x,PI,test
+1139,3,AHPC,Cy3,20x,MAP2ab,test
+3007,17,RPC,Cy3,40x,TuJ1,test
+260,0,AHPC,Cy3,20x,PI,test
+1342,5,AHPC,Cy3,20x,MAP2ab,test
+2571,3,AHPC,Cy3,20x,GFAP,test
+2294,0,AHPC,Cy3,20x,GFAP,test
+189,19,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2557,153,AHPC,Cy3,20x,Ki67 + TuJ1,test
+201,79,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2969,34,RPC,Cy3,40x,MAP2ab,test
+2169,0,AHPC,Cy3,20x,PI,test
+1893,15,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2806,85,RPC,Cy3,40x,TuJ1,test
+139,4,AHPC,Cy3,20x,MAP2ab,test
+1608,2,AHPC,AF488,20x,Ki67 + TuJ1,test
+2255,29,AHPC,Cy3,20x,Ki67 + RIP,test
+771,0,AHPC,Cy3,20x,PI,test
+871,7,AHPC,Cy3,20x,Ki67 + TuJ1,test
+119,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2854,55,RPC,Cy3,40x,TuJ1,test
+1193,1,AHPC,Cy3,20x,PI,test
+2112,25,AHPC,Cy3,20x,Ki67 + TuJ1,test
+743,0,AHPC,Cy3,20x,PI,test
+2103,9,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1740,0,AHPC,Cy3,20x,PI,test
+321,0,AHPC,Cy3,20x,PI,test
+741,3,AHPC,Cy3,20x,PI,test
+1866,47,AHPC,Cy3,20x,MAP2ab + RIP,test
+589,0,AHPC,Cy3,20x,PI,test
+2773,11,RPC,Cy3,40x,GFAP,test
+720,0,AHPC,Cy3,20x,PI,test
+1948,1,AHPC,Cy3,20x,PI,test
+2809,63,RPC,Cy3,40x,MAP2ab,test
+2083,8,AHPC,AF488,20x,Ki67 + TuJ1,test
+1403,2,AHPC,AF488,20x,Ki67 + TuJ1,test
+677,0,AHPC,Cy3,20x,PI,test
+1807,11,AHPC,Cy3,20x,Ki67 + TuJ1,test
+265,0,AHPC,Cy3,20x,PI,test
+2465,105,AHPC,Cy3,20x,Ki67 + RIP,test
+918,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2907,64,RPC,Cy3,40x,TuJ1,test
+1771,0,AHPC,AF488,20x,GFAP + Ki67,test
+2193,4,AHPC,Cy3,20x,PI,test
+2855,84,RPC,Cy3,40x,TuJ1,test
+1447,5,AHPC,Cy3,20x,PI,test
+2045,15,AHPC,Cy3,20x,MAP2ab,test
+1116,6,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2546,111,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2517,103,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1016,6,AHPC,Cy3,20x,RIP,test
+2239,250,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2532,177,AHPC,Cy3,20x,Ki67 + TuJ1,test
+102,1,AHPC,AF488,20x,GFAP + Ki67,test
+167,9,AHPC,Cy3,20x,MAP2ab,test
+1424,0,AHPC,Cy3,20x,PI,test
+2625,155,AHPC,Cy3,20x,PI,test
+1338,4,AHPC,Cy3,20x,MAP2ab,test
+1814,6,AHPC,AF488,20x,MAP2ab,test
+544,4,AHPC,AF488,20x,Ki67 + TuJ1,test
+1055,1,AHPC,AF488,20x,GFAP + Ki67,test
+2180,10,AHPC,Cy3,20x,PI,test
+1058,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2327,88,AHPC,Cy3,20x,PI,test
+1786,5,AHPC,Cy3,20x,Ki67 + TuJ1,test
+215,44,AHPC,AF488,20x,Ki67 + TuJ1,test
+500,10,AHPC,Cy3,20x,MAP2ab,test
+421,37,AHPC,Cy3,20x,RIP,test
+1278,0,AHPC,Cy3,20x,GFAP + Ki67,test
+1584,9,AHPC,Cy3,20x,Ki67 + TuJ1,test
+132,10,AHPC,Cy3,20x,MAP2ab,test
+995,4,AHPC,Cy3,20x,RIP,test
+1539,25,AHPC,Cy3,20x,MAP2ab,test
+2428,136,AHPC,Cy3,20x,Ki67 + RIP,test
+1008,23,AHPC,Cy3,20x,RIP,test
+1119,11,AHPC,Cy3,20x,MAP2ab,test
+2155,0,AHPC,Cy3,20x,PI,test
+1731,0,AHPC,Cy3,20x,PI,test
+146,50,AHPC,Cy3,20x,MAP2ab,test
+94,0,AHPC,Cy3,20x,GFAP + Ki67,test
+760,0,AHPC,Cy3,20x,PI,test
+271,1,AHPC,Cy3,20x,PI,test
+2445,189,AHPC,Cy3,20x,Ki67 + RIP,test
+87,1,AHPC,AF488,20x,GFAP + Ki67,test
+2867,30,RPC,Cy3,40x,MAP2ab,test
+1482,4,AHPC,Cy3,20x,PI,test
+2324,1,AHPC,Cy3,20x,GFAP,test
+1632,3,AHPC,AF488,20x,Ki67 + TuJ1,test
+621,1,AHPC,Cy3,20x,PI,test
+2753,187,RPC,Cy3,40x,TuJ1,test
+2755,191,RPC,Cy3,40x,TuJ1,test
+2325,0,AHPC,Cy3,20x,GFAP,test
+770,0,AHPC,Cy3,20x,PI,test
+283,3,AHPC,Cy3,20x,PI,test
+36,0,AHPC,Cy3,20x,PI,test
+2117,19,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2889,73,RPC,Cy3,40x,MAP2ab,test
+2354,93,AHPC,Cy3,20x,PI,test
+1105,2,AHPC,AF488,20x,Ki67 + TuJ1,test
+2949,48,RPC,Cy3,40x,MAP2ab,test
+68,21,AHPC,Cy3,20x,RIP,test
+2771,40,RPC,Cy3,40x,GFAP,test
+638,0,AHPC,Cy3,20x,PI,test
+489,6,AHPC,Cy3,20x,MAP2ab,test
+2951,28,RPC,Cy3,40x,MAP2ab,test
+2224,1,AHPC,Cy3,20x,PI,test
+396,0,AHPC,Cy3,20x,PI,test
+2830,41,RPC,Cy3,40x,MAP2ab,test
+1604,2,AHPC,AF488,20x,Ki67 + TuJ1,test
+1019,0,AHPC,Cy3,20x,GFAP + Ki67,test
+1284,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2143,0,AHPC,Cy3,20x,PI,test
+723,0,AHPC,Cy3,20x,PI,test
+1456,13,AHPC,Cy3,20x,PI,test
+50,5,AHPC,Cy3,20x,RIP,test
+186,53,AHPC,Cy3,20x,Ki67 + TuJ1,test
+2130,0,AHPC,Cy3,20x,PI,test
+2954,51,RPC,Cy3,40x,MAP2ab,test
+2790,55,RPC,Cy3,40x,TuJ1,test
+1382,2,AHPC,AF488,20x,Ki67 + TuJ1,test
+2349,161,AHPC,Cy3,20x,PI,test
+423,19,AHPC,Cy3,20x,RIP,test
+415,21,AHPC,Cy3,20x,RIP,test
+66,8,AHPC,Cy3,20x,RIP,test
+850,9,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1270,17,AHPC,Cy3,20x,RIP,test
+2226,0,AHPC,Cy3,20x,PI,test
+1518,33,AHPC,Cy3,20x,RIP,test
+1929,0,AHPC,Cy3,20x,PI,test
+1995,18,AHPC,Cy3,20x,RIP,test
+340,3,AHPC,Cy3,20x,PI,test
+782,0,AHPC,Cy3,20x,PI,test
+2911,43,RPC,Cy3,40x,TuJ1,test
+605,0,AHPC,Cy3,20x,PI,test
+687,0,AHPC,Cy3,20x,PI,test
+84,0,AHPC,Cy3,20x,GFAP + Ki67,test
+2856,53,RPC,Cy3,40x,TuJ1,test
+235,0,AHPC,Cy3,20x,PI,test
+1400,42,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1624,2,AHPC,Cy3,20x,Ki67 + TuJ1,test
+1504,3,AHPC,Cy3,20x,RIP,test
+794,0,AHPC,AF488,20x,MAP2ab,test
+2580,65,AHPC,Cy3,20x,PI,test
+2287,990,AHPC,DAPI,20x,DAPI,trainval
+2497,1004,AHPC,DAPI,20x,DAPI,trainval
+30,42,AHPC,DAPI,20x,DAPI,trainval
+1427,81,AHPC,DAPI,20x,DAPI,trainval
+1285,39,AHPC,DAPI,20x,DAPI,trainval
+462,62,AHPC,DAPI,20x,DAPI,trainval
+2692,373,RPC,DAPI,40x,DAPI,trainval
+1681,240,AHPC,DAPI,20x,DAPI,trainval
+359,47,AHPC,DAPI,20x,DAPI,trainval
+2060,98,AHPC,DAPI,20x,DAPI,trainval
+2342,1379,AHPC,DAPI,20x,DAPI,trainval
+1254,68,AHPC,DAPI,20x,DAPI,trainval
+517,127,AHPC,DAPI,20x,DAPI,trainval
+1726,64,AHPC,DAPI,20x,DAPI,trainval
+1710,148,AHPC,DAPI,20x,DAPI,trainval
+343,293,AHPC,DAPI,20x,DAPI,trainval
+3015,168,RPC,DAPI,40x,DAPI,trainval
+1809,51,AHPC,DAPI,20x,DAPI,trainval
+89,64,AHPC,DAPI,20x,DAPI,trainval
+974,35,AHPC,DAPI,20x,DAPI,trainval
+715,322,AHPC,DAPI,20x,DAPI,trainval
+2879,148,RPC,DAPI,40x,DAPI,trainval
+2453,1108,AHPC,DAPI,20x,DAPI,trainval
+1830,37,AHPC,DAPI,20x,DAPI,trainval
+130,66,AHPC,DAPI,20x,DAPI,trainval
+1693,234,AHPC,DAPI,20x,DAPI,trainval
+1088,58,AHPC,DAPI,20x,DAPI,trainval
+1232,63,AHPC,DAPI,20x,DAPI,trainval
+2823,309,RPC,DAPI,40x,DAPI,trainval
+910,43,AHPC,DAPI,20x,DAPI,trainval
+1642,64,AHPC,DAPI,20x,DAPI,trainval
+594,235,AHPC,DAPI,20x,DAPI,trainval
+425,87,AHPC,DAPI,20x,DAPI,trainval
+907,306,AHPC,DAPI,20x,DAPI,trainval
+1118,193,AHPC,DAPI,20x,DAPI,trainval
+2019,73,AHPC,DAPI,20x,DAPI,trainval
+1993,74,AHPC,DAPI,20x,DAPI,trainval
+636,199,AHPC,DAPI,20x,DAPI,trainval
+91,34,AHPC,DAPI,20x,DAPI,trainval
+1170,64,AHPC,DAPI,20x,DAPI,trainval
+528,74,AHPC,DAPI,20x,DAPI,trainval
+3018,294,RPC,DAPI,40x,DAPI,trainval
+1097,207,AHPC,DAPI,20x,DAPI,trainval
+1289,86,AHPC,DAPI,20x,DAPI,trainval
+596,214,AHPC,DAPI,20x,DAPI,trainval
+1149,73,AHPC,DAPI,20x,DAPI,trainval
+386,158,AHPC,DAPI,20x,DAPI,trainval
+1591,26,AHPC,DAPI,20x,DAPI,trainval
+1154,52,AHPC,DAPI,20x,DAPI,trainval
+2898,285,RPC,DAPI,40x,DAPI,trainval
+2904,265,RPC,DAPI,40x,DAPI,trainval
+2616,564,AHPC,DAPI,20x,DAPI,trainval
+2077,80,AHPC,DAPI,20x,DAPI,trainval
+650,96,AHPC,DAPI,20x,DAPI,trainval
+1133,60,AHPC,DAPI,20x,DAPI,trainval
+432,105,AHPC,DAPI,20x,DAPI,trainval
+1222,113,AHPC,DAPI,20x,DAPI,trainval
+2139,190,AHPC,DAPI,20x,DAPI,trainval
+689,131,AHPC,DAPI,20x,DAPI,trainval
+302,312,AHPC,DAPI,20x,DAPI,trainval
+937,210,AHPC,DAPI,20x,DAPI,trainval
+451,228,AHPC,DAPI,20x,DAPI,trainval
+2703,307,RPC,DAPI,40x,DAPI,trainval
+2827,273,RPC,DAPI,40x,DAPI,trainval
+2008,46,AHPC,DAPI,20x,DAPI,trainval
+474,73,AHPC,DAPI,20x,DAPI,trainval
+2721,541,RPC,DAPI,40x,DAPI,trainval
+268,1117,AHPC,DAPI,20x,DAPI,trainval
+2982,221,RPC,DAPI,40x,DAPI,trainval
+3001,106,RPC,DAPI,40x,DAPI,trainval
+562,274,AHPC,DAPI,20x,DAPI,trainval
+2128,185,AHPC,DAPI,20x,DAPI,trainval
+1575,27,AHPC,DAPI,20x,DAPI,trainval
+1519,23,AHPC,DAPI,20x,DAPI,trainval
+1064,141,AHPC,DAPI,20x,DAPI,trainval
+1357,46,AHPC,DAPI,20x,DAPI,trainval
+2684,191,RPC,DAPI,40x,DAPI,trainval
+963,85,AHPC,DAPI,20x,DAPI,trainval
+412,90,AHPC,DAPI,20x,DAPI,trainval
+1474,105,AHPC,DAPI,20x,DAPI,trainval
+2,141,AHPC,DAPI,20x,DAPI,trainval
+1617,15,AHPC,DAPI,20x,DAPI,trainval
+699,102,AHPC,DAPI,20x,DAPI,trainval
+1503,21,AHPC,DAPI,20x,DAPI,trainval
+230,29,AHPC,DAPI,20x,DAPI,trainval
+1574,126,AHPC,DAPI,20x,DAPI,trainval
+1888,131,AHPC,DAPI,20x,DAPI,trainval
+134,31,AHPC,DAPI,20x,DAPI,trainval
+622,265,AHPC,DAPI,20x,DAPI,trainval
+646,83,AHPC,DAPI,20x,DAPI,trainval
+1446,128,AHPC,DAPI,20x,DAPI,trainval
+2984,229,RPC,DAPI,40x,DAPI,trainval
+2358,1519,AHPC,DAPI,20x,DAPI,trainval
+759,33,AHPC,DAPI,20x,DAPI,trainval
+1000,162,AHPC,DAPI,20x,DAPI,trainval
+1480,80,AHPC,DAPI,20x,DAPI,trainval
+826,140,AHPC,DAPI,20x,DAPI,trainval
+2304,767,AHPC,DAPI,20x,DAPI,trainval
+1267,138,AHPC,DAPI,20x,DAPI,trainval
+993,95,AHPC,DAPI,20x,DAPI,trainval
+1103,77,AHPC,DAPI,20x,DAPI,trainval
+2942,283,RPC,DAPI,40x,DAPI,trainval
+2002,97,AHPC,DAPI,20x,DAPI,trainval
+2706,686,RPC,DAPI,40x,DAPI,trainval
+2491,362,AHPC,DAPI,20x,DAPI,trainval
+1819,86,AHPC,DAPI,20x,DAPI,trainval
+661,275,AHPC,DAPI,20x,DAPI,trainval
+1513,37,AHPC,DAPI,20x,DAPI,trainval
+1068,15,AHPC,DAPI,20x,DAPI,trainval
+785,84,AHPC,DAPI,20x,DAPI,trainval
+667,55,AHPC,DAPI,20x,DAPI,trainval
+45,55,AHPC,DAPI,20x,DAPI,trainval
+2173,372,AHPC,DAPI,20x,DAPI,trainval
+2319,1251,AHPC,DAPI,20x,DAPI,trainval
+1199,33,AHPC,DAPI,20x,DAPI,trainval
+1250,22,AHPC,DAPI,20x,DAPI,trainval
+784,73,AHPC,DAPI,20x,DAPI,trainval
+1484,20,AHPC,DAPI,20x,DAPI,trainval
+2398,2408,AHPC,DAPI,20x,DAPI,trainval
+1734,56,AHPC,DAPI,20x,DAPI,trainval
+377,101,AHPC,DAPI,20x,DAPI,trainval
+1072,24,AHPC,DAPI,20x,DAPI,trainval
+253,75,AHPC,DAPI,20x,DAPI,trainval
+725,278,AHPC,DAPI,20x,DAPI,trainval
+607,568,AHPC,DAPI,20x,DAPI,trainval
+333,61,AHPC,DAPI,20x,DAPI,trainval
+2175,811,AHPC,DAPI,20x,DAPI,trainval
+1043,51,AHPC,DAPI,20x,DAPI,trainval
+2269,1738,AHPC,DAPI,20x,DAPI,trainval
+327,106,AHPC,DAPI,20x,DAPI,trainval
+1704,157,AHPC,DAPI,20x,DAPI,trainval
+458,55,AHPC,DAPI,20x,DAPI,trainval
+930,93,AHPC,DAPI,20x,DAPI,trainval
+712,194,AHPC,DAPI,20x,DAPI,trainval
+761,18,AHPC,DAPI,20x,DAPI,trainval
+1421,85,AHPC,DAPI,20x,DAPI,trainval
+2017,119,AHPC,DAPI,20x,DAPI,trainval
+899,78,AHPC,DAPI,20x,DAPI,trainval
+857,19,AHPC,DAPI,20x,DAPI,trainval
+1582,16,AHPC,DAPI,20x,DAPI,trainval
+2395,2082,AHPC,DAPI,20x,DAPI,trainval
+1454,79,AHPC,DAPI,20x,DAPI,trainval
+1859,186,AHPC,DAPI,20x,DAPI,trainval
+2409,2053,AHPC,DAPI,20x,DAPI,trainval
+1625,29,AHPC,DAPI,20x,DAPI,trainval
+1673,39,AHPC,DAPI,20x,DAPI,trainval
+1478,146,AHPC,DAPI,20x,DAPI,trainval
+1006,36,AHPC,DAPI,20x,DAPI,trainval
+2514,942,AHPC,DAPI,20x,DAPI,trainval
+1035,29,AHPC,DAPI,20x,DAPI,trainval
+1185,22,AHPC,DAPI,20x,DAPI,trainval
+2183,449,AHPC,DAPI,20x,DAPI,trainval
+1117,28,AHPC,DAPI,20x,DAPI,trainval
+304,394,AHPC,DAPI,20x,DAPI,trainval
+742,281,AHPC,DAPI,20x,DAPI,trainval
+2541,1011,AHPC,DAPI,20x,DAPI,trainval
+2062,93,AHPC,DAPI,20x,DAPI,trainval
+1336,15,AHPC,DAPI,20x,DAPI,trainval
+999,136,AHPC,DAPI,20x,DAPI,trainval
+1853,151,AHPC,DAPI,20x,DAPI,trainval
+2537,1003,AHPC,DAPI,20x,DAPI,trainval
+497,45,AHPC,DAPI,20x,DAPI,trainval
+2920,227,RPC,DAPI,40x,DAPI,trainval
+2454,948,AHPC,DAPI,20x,DAPI,trainval
+1931,46,AHPC,DAPI,20x,DAPI,trainval
+2778,533,RPC,DAPI,40x,DAPI,trainval
+18,64,AHPC,DAPI,20x,DAPI,trainval
+2656,902,AHPC,DAPI,20x,DAPI,trainval
+1282,69,AHPC,DAPI,20x,DAPI,trainval
+2663,1360,AHPC,DAPI,20x,DAPI,trainval
+2725,396,RPC,DAPI,40x,DAPI,trainval
+892,146,AHPC,DAPI,20x,DAPI,trainval
+1046,268,AHPC,DAPI,20x,DAPI,trainval
+1021,17,AHPC,DAPI,20x,DAPI,trainval
+776,202,AHPC,DAPI,20x,DAPI,trainval
+366,112,AHPC,DAPI,20x,DAPI,trainval
+122,99,AHPC,DAPI,20x,DAPI,trainval
+2924,226,RPC,DAPI,40x,DAPI,trainval
+1936,62,AHPC,DAPI,20x,DAPI,trainval
+1140,140,AHPC,DAPI,20x,DAPI,trainval
+810,58,AHPC,DAPI,20x,DAPI,trainval
+2375,2182,AHPC,DAPI,20x,DAPI,trainval
+392,88,AHPC,DAPI,20x,DAPI,trainval
+3000,120,RPC,DAPI,40x,DAPI,trainval
+2590,752,AHPC,DAPI,20x,DAPI,trainval
+1555,38,AHPC,DAPI,20x,DAPI,trainval
+1425,55,AHPC,DAPI,20x,DAPI,trainval
+267,360,AHPC,DAPI,20x,DAPI,trainval
+1550,109,AHPC,DAPI,20x,DAPI,trainval
+2935,369,RPC,DAPI,40x,DAPI,trainval
+491,85,AHPC,DAPI,20x,DAPI,trainval
+82,250,AHPC,DAPI,20x,DAPI,trainval
+2018,97,AHPC,DAPI,20x,DAPI,trainval
+1842,35,AHPC,DAPI,20x,DAPI,trainval
+1436,113,AHPC,DAPI,20x,DAPI,trainval
+426,98,AHPC,DAPI,20x,DAPI,trainval
+561,181,AHPC,DAPI,20x,DAPI,trainval
+1676,13,AHPC,DAPI,20x,DAPI,trainval
+1623,18,AHPC,DAPI,20x,DAPI,trainval
+1190,59,AHPC,DAPI,20x,DAPI,trainval
+701,329,AHPC,DAPI,20x,DAPI,trainval
+1160,102,AHPC,DAPI,20x,DAPI,trainval
+2955,354,RPC,DAPI,40x,DAPI,trainval
+617,252,AHPC,DAPI,20x,DAPI,trainval
+901,118,AHPC,DAPI,20x,DAPI,trainval
+454,23,AHPC,DAPI,20x,DAPI,trainval
+966,39,AHPC,DAPI,20x,DAPI,trainval
+2622,585,AHPC,DAPI,20x,DAPI,trainval
+398,64,AHPC,DAPI,20x,DAPI,trainval
+1083,48,AHPC,DAPI,20x,DAPI,trainval
+78,66,AHPC,DAPI,20x,DAPI,trainval
+2058,75,AHPC,DAPI,20x,DAPI,trainval
+1856,181,AHPC,DAPI,20x,DAPI,trainval
+2997,174,RPC,DAPI,40x,DAPI,trainval
+1690,254,AHPC,DAPI,20x,DAPI,trainval
+578,149,AHPC,DAPI,20x,DAPI,trainval
+318,53,AHPC,DAPI,20x,DAPI,trainval
+1530,36,AHPC,DAPI,20x,DAPI,trainval
+2072,69,AHPC,DAPI,20x,DAPI,trainval
+2922,355,RPC,DAPI,40x,DAPI,trainval
+1892,94,AHPC,DAPI,20x,DAPI,trainval
+2092,234,AHPC,DAPI,20x,DAPI,trainval
+1686,242,AHPC,DAPI,20x,DAPI,trainval
+1606,13,AHPC,DAPI,20x,DAPI,trainval
+629,276,AHPC,DAPI,20x,DAPI,trainval
+884,265,AHPC,DAPI,20x,DAPI,trainval
+484,88,AHPC,DAPI,20x,DAPI,trainval
+1442,72,AHPC,DAPI,20x,DAPI,trainval
+2452,967,AHPC,DAPI,20x,DAPI,trainval
+2603,625,AHPC,DAPI,20x,DAPI,trainval
+434,106,AHPC,DAPI,20x,DAPI,trainval
+1205,66,AHPC,DAPI,20x,DAPI,trainval
+2881,296,RPC,DAPI,40x,DAPI,trainval
+2009,73,AHPC,DAPI,20x,DAPI,trainval
+807,9,AHPC,DAPI,20x,DAPI,trainval
+111,157,AHPC,DAPI,20x,DAPI,trainval
+1638,36,AHPC,DAPI,20x,DAPI,trainval
+895,77,AHPC,DAPI,20x,DAPI,trainval
+17,35,AHPC,DAPI,20x,DAPI,trainval
+1266,114,AHPC,DAPI,20x,DAPI,trainval
+2365,1219,AHPC,DAPI,20x,DAPI,trainval
+2094,134,AHPC,DAPI,20x,DAPI,trainval
+1963,156,AHPC,DAPI,20x,DAPI,trainval
+2605,651,AHPC,DAPI,20x,DAPI,trainval
+1794,114,AHPC,DAPI,20x,DAPI,trainval
+1132,46,AHPC,DAPI,20x,DAPI,trainval
+1487,96,AHPC,DAPI,20x,DAPI,trainval
+239,32,AHPC,DAPI,20x,DAPI,trainval
+266,786,AHPC,DAPI,20x,DAPI,trainval
+1010,96,AHPC,DAPI,20x,DAPI,trainval
+75,35,AHPC,DAPI,20x,DAPI,trainval
+948,71,AHPC,DAPI,20x,DAPI,trainval
+199,702,AHPC,DAPI,20x,DAPI,trainval
+798,56,AHPC,DAPI,20x,DAPI,trainval
+2118,58,AHPC,DAPI,20x,DAPI,trainval
+2217,26,AHPC,DAPI,20x,DAPI,trainval
+2439,1053,AHPC,DAPI,20x,DAPI,trainval
+2638,610,AHPC,DAPI,20x,DAPI,trainval
+2098,46,AHPC,DAPI,20x,DAPI,trainval
+2456,489,AHPC,DAPI,20x,DAPI,trainval
+2334,2262,AHPC,DAPI,20x,DAPI,trainval
+363,86,AHPC,DAPI,20x,DAPI,trainval
+2777,570,RPC,DAPI,40x,DAPI,trainval
+2046,135,AHPC,DAPI,20x,DAPI,trainval
+395,198,AHPC,DAPI,20x,DAPI,trainval
+2030,27,AHPC,DAPI,20x,DAPI,trainval
+2943,353,RPC,DAPI,40x,DAPI,trainval
+64,64,AHPC,DAPI,20x,DAPI,trainval
+1752,134,AHPC,DAPI,20x,DAPI,trainval
+2964,161,RPC,DAPI,40x,DAPI,trainval
+2937,343,RPC,DAPI,40x,DAPI,trainval
+1764,133,AHPC,DAPI,20x,DAPI,trainval
+13,29,AHPC,DAPI,20x,DAPI,trainval
+1173,66,AHPC,DAPI,20x,DAPI,trainval
+2289,1021,AHPC,DAPI,20x,DAPI,trainval
+1875,62,AHPC,DAPI,20x,DAPI,trainval
+2740,276,RPC,DAPI,40x,DAPI,trainval
+1891,187,AHPC,DAPI,20x,DAPI,trainval
+2430,447,AHPC,DAPI,20x,DAPI,trainval
+3016,235,RPC,DAPI,40x,DAPI,trainval
+869,35,AHPC,DAPI,20x,DAPI,trainval
+2387,1945,AHPC,DAPI,20x,DAPI,trainval
+2049,57,AHPC,DAPI,20x,DAPI,trainval
+873,75,AHPC,DAPI,20x,DAPI,trainval
+829,128,AHPC,DAPI,20x,DAPI,trainval
+1932,35,AHPC,DAPI,20x,DAPI,trainval
+894,213,AHPC,DAPI,20x,DAPI,trainval
+960,47,AHPC,DAPI,20x,DAPI,trainval
+2013,125,AHPC,DAPI,20x,DAPI,trainval
+493,137,AHPC,DAPI,20x,DAPI,trainval
+2001,65,AHPC,DAPI,20x,DAPI,trainval
+183,137,AHPC,DAPI,20x,DAPI,trainval
+2959,75,RPC,DAPI,40x,DAPI,trainval
+2921,275,RPC,DAPI,40x,DAPI,trainval
+155,43,AHPC,DAPI,20x,DAPI,trainval
+1782,160,AHPC,DAPI,20x,DAPI,trainval
+2938,282,RPC,DAPI,40x,DAPI,trainval
+592,209,AHPC,DAPI,20x,DAPI,trainval
+2766,314,RPC,DAPI,40x,DAPI,trainval
+1954,27,AHPC,DAPI,20x,DAPI,trainval
+1669,15,AHPC,DAPI,20x,DAPI,trainval
+1559,44,AHPC,DAPI,20x,DAPI,trainval
+1004,30,AHPC,DAPI,20x,DAPI,trainval
+1946,41,AHPC,DAPI,20x,DAPI,trainval
+2219,14,AHPC,DAPI,20x,DAPI,trainval
+2466,845,AHPC,DAPI,20x,DAPI,trainval
+2998,111,RPC,DAPI,40x,DAPI,trainval
+1351,92,AHPC,DAPI,20x,DAPI,trainval
+1328,45,AHPC,DAPI,20x,DAPI,trainval
+2618,819,AHPC,DAPI,20x,DAPI,trainval
+2683,481,RPC,DAPI,40x,DAPI,trainval
+439,43,AHPC,DAPI,20x,DAPI,trainval
+2660,2288,AHPC,DAPI,20x,DAPI,trainval
+2582,721,AHPC,DAPI,20x,DAPI,trainval
+2125,180,AHPC,DAPI,20x,DAPI,trainval
+542,83,AHPC,DAPI,20x,DAPI,trainval
+1477,52,AHPC,DAPI,20x,DAPI,trainval
+326,121,AHPC,DAPI,20x,DAPI,trainval
+1787,76,AHPC,DAPI,20x,DAPI,trainval
+2044,113,AHPC,DAPI,20x,DAPI,trainval
+237,78,AHPC,DAPI,20x,DAPI,trainval
+1325,110,AHPC,DAPI,20x,DAPI,trainval
+1439,73,AHPC,DAPI,20x,DAPI,trainval
+548,75,AHPC,DAPI,20x,DAPI,trainval
+2667,1445,AHPC,DAPI,20x,DAPI,trainval
+1321,119,AHPC,DAPI,20x,DAPI,trainval
+1852,280,AHPC,DAPI,20x,DAPI,trainval
+1123,55,AHPC,DAPI,20x,DAPI,trainval
+1081,68,AHPC,DAPI,20x,DAPI,trainval
+2601,479,AHPC,DAPI,20x,DAPI,trainval
+2729,525,RPC,DAPI,40x,DAPI,trainval
+1825,29,AHPC,DAPI,20x,DAPI,trainval
+988,116,AHPC,DAPI,20x,DAPI,trainval
+2202,22,AHPC,DAPI,20x,DAPI,trainval
+1360,44,AHPC,DAPI,20x,DAPI,trainval
+1835,19,AHPC,DAPI,20x,DAPI,trainval
+269,526,AHPC,DAPI,20x,DAPI,trainval
+2486,1079,AHPC,DAPI,20x,DAPI,trainval
+664,133,AHPC,DAPI,20x,DAPI,trainval
+637,411,AHPC,DAPI,20x,DAPI,trainval
+1489,42,AHPC,DAPI,20x,DAPI,trainval
+1615,30,AHPC,DAPI,20x,DAPI,trainval
+722,343,AHPC,DAPI,20x,DAPI,trainval
+2343,1814,AHPC,DAPI,20x,DAPI,trainval
+2355,911,AHPC,DAPI,20x,DAPI,trainval
+944,33,AHPC,DAPI,20x,DAPI,trainval
+141,420,AHPC,DAPI,20x,DAPI,trainval
+632,393,AHPC,DAPI,20x,DAPI,trainval
+2070,106,AHPC,DAPI,20x,DAPI,trainval
+610,168,AHPC,DAPI,20x,DAPI,trainval
+1358,43,AHPC,DAPI,20x,DAPI,trainval
+207,49,AHPC,DAPI,20x,DAPI,trainval
+2705,387,RPC,DAPI,40x,DAPI,trainval
+1438,119,AHPC,DAPI,20x,DAPI,trainval
+112,68,AHPC,DAPI,20x,DAPI,trainval
+476,154,AHPC,DAPI,20x,DAPI,trainval
+457,83,AHPC,DAPI,20x,DAPI,trainval
+692,654,AHPC,DAPI,20x,DAPI,trainval
+440,80,AHPC,DAPI,20x,DAPI,trainval
+391,229,AHPC,DAPI,20x,DAPI,trainval
+1070,19,AHPC,DAPI,20x,DAPI,trainval
+643,55,AHPC,DAPI,20x,DAPI,trainval
+626,323,AHPC,DAPI,20x,DAPI,trainval
+536,78,AHPC,DAPI,20x,DAPI,trainval
+465,34,AHPC,DAPI,20x,DAPI,trainval
+735,526,AHPC,DAPI,20x,DAPI,trainval
+2331,1951,AHPC,DAPI,20x,DAPI,trainval
+2145,147,AHPC,DAPI,20x,DAPI,trainval
+35,38,AHPC,DAPI,20x,DAPI,trainval
+1684,239,AHPC,DAPI,20x,DAPI,trainval
+2413,1654,AHPC,DAPI,20x,DAPI,trainval
+827,46,AHPC,DAPI,20x,DAPI,trainval
+73,74,AHPC,DAPI,20x,DAPI,trainval
+2668,898,AHPC,DAPI,20x,DAPI,trainval
+1769,4,AHPC,DAPI,20x,DAPI,trainval
+231,45,AHPC,DAPI,20x,DAPI,trainval
+1195,106,AHPC,DAPI,20x,DAPI,trainval
+2915,319,RPC,DAPI,40x,DAPI,trainval
+1229,98,AHPC,DAPI,20x,DAPI,trainval
+2596,885,AHPC,DAPI,20x,DAPI,trainval
+534,56,AHPC,DAPI,20x,DAPI,trainval
+1933,32,AHPC,DAPI,20x,DAPI,trainval
+2842,335,RPC,DAPI,40x,DAPI,trainval
+2295,1075,AHPC,DAPI,20x,DAPI,trainval
+1483,11,AHPC,DAPI,20x,DAPI,trainval
+990,175,AHPC,DAPI,20x,DAPI,trainval
+2210,19,AHPC,DAPI,20x,DAPI,trainval
+471,201,AHPC,DAPI,20x,DAPI,trainval
+3002,176,RPC,DAPI,40x,DAPI,trainval
+289,224,AHPC,DAPI,20x,DAPI,trainval
+696,315,AHPC,DAPI,20x,DAPI,trainval
+1944,104,AHPC,DAPI,20x,DAPI,trainval
+1220,139,AHPC,DAPI,20x,DAPI,trainval
+1204,42,AHPC,DAPI,20x,DAPI,trainval
+160,79,AHPC,DAPI,20x,DAPI,trainval
+2845,184,RPC,DAPI,40x,DAPI,trainval
+1061,30,AHPC,DAPI,20x,DAPI,trainval
+2765,258,RPC,DAPI,40x,DAPI,trainval
+25,106,AHPC,DAPI,20x,DAPI,trainval
+494,42,AHPC,DAPI,20x,DAPI,trainval
+2329,1817,AHPC,DAPI,20x,DAPI,trainval
+2407,1786,AHPC,DAPI,20x,DAPI,trainval
+1619,15,AHPC,DAPI,20x,DAPI,trainval
+2127,182,AHPC,DAPI,20x,DAPI,trainval
+2650,928,AHPC,DAPI,20x,DAPI,trainval
+1838,99,AHPC,DAPI,20x,DAPI,trainval
+860,22,AHPC,DAPI,20x,DAPI,trainval
+59,78,AHPC,DAPI,20x,DAPI,trainval
+2999,113,RPC,DAPI,40x,DAPI,trainval
+2135,260,AHPC,DAPI,20x,DAPI,trainval
+1661,15,AHPC,DAPI,20x,DAPI,trainval
+2626,1017,AHPC,DAPI,20x,DAPI,trainval
+443,19,AHPC,DAPI,20x,DAPI,trainval
+67,43,AHPC,DAPI,20x,DAPI,trainval
+1335,23,AHPC,DAPI,20x,DAPI,trainval
+2975,246,RPC,DAPI,40x,DAPI,trainval
+1121,152,AHPC,DAPI,20x,DAPI,trainval
+2962,205,RPC,DAPI,40x,DAPI,trainval
+2846,315,RPC,DAPI,40x,DAPI,trainval
+1249,91,AHPC,DAPI,20x,DAPI,trainval
+1516,62,AHPC,DAPI,20x,DAPI,trainval
+1640,15,AHPC,DAPI,20x,DAPI,trainval
+1148,20,AHPC,DAPI,20x,DAPI,trainval
+378,297,AHPC,DAPI,20x,DAPI,trainval
+1001,69,AHPC,DAPI,20x,DAPI,trainval
+1092,50,AHPC,DAPI,20x,DAPI,trainval
+358,101,AHPC,DAPI,20x,DAPI,trainval
+1352,63,AHPC,DAPI,20x,DAPI,trainval
+174,83,AHPC,DAPI,20x,DAPI,trainval
+1028,20,AHPC,DAPI,20x,DAPI,trainval
+2550,1004,AHPC,DAPI,20x,DAPI,trainval
+685,72,AHPC,DAPI,20x,DAPI,trainval
+2142,173,AHPC,DAPI,20x,DAPI,trainval
+1975,87,AHPC,DAPI,20x,DAPI,trainval
+2739,453,RPC,DAPI,40x,DAPI,trainval
+2648,520,AHPC,DAPI,20x,DAPI,trainval
+3022,194,RPC,DAPI,40x,DAPI,trainval
+2819,351,RPC,DAPI,40x,DAPI,trainval
+2232,23,AHPC,DAPI,20x,DAPI,trainval
+1202,22,AHPC,DAPI,20x,DAPI,trainval
+408,55,AHPC,DAPI,20x,DAPI,trainval
+344,275,AHPC,DAPI,20x,DAPI,trainval
+1743,122,AHPC,DAPI,20x,DAPI,trainval
+1991,71,AHPC,DAPI,20x,DAPI,trainval
+2231,48,AHPC,DAPI,20x,DAPI,trainval
+2995,216,RPC,DAPI,40x,DAPI,trainval
+336,270,AHPC,DAPI,20x,DAPI,trainval
+450,132,AHPC,DAPI,20x,DAPI,trainval
+627,523,AHPC,DAPI,20x,DAPI,trainval
+719,263,AHPC,DAPI,20x,DAPI,trainval
+2339,1445,AHPC,DAPI,20x,DAPI,trainval
+1509,35,AHPC,DAPI,20x,DAPI,trainval
+682,70,AHPC,DAPI,20x,DAPI,trainval
+695,148,AHPC,DAPI,20x,DAPI,trainval
+1340,26,AHPC,DAPI,20x,DAPI,trainval
+878,52,AHPC,DAPI,20x,DAPI,trainval
+1041,29,AHPC,DAPI,20x,DAPI,trainval
+1662,22,AHPC,DAPI,20x,DAPI,trainval
+2710,317,RPC,DAPI,40x,DAPI,trainval
+2298,936,AHPC,DAPI,20x,DAPI,trainval
+356,63,AHPC,DAPI,20x,DAPI,trainval
+1664,9,AHPC,DAPI,20x,DAPI,trainval
+218,61,AHPC,DAPI,20x,DAPI,trainval
+447,112,AHPC,DAPI,20x,DAPI,trainval
+2122,464,AHPC,DAPI,20x,DAPI,trainval
+1039,20,AHPC,DAPI,20x,DAPI,trainval
+1381,44,AHPC,DAPI,20x,DAPI,trainval
+2838,248,RPC,DAPI,40x,DAPI,trainval
+339,86,AHPC,DAPI,20x,DAPI,trainval
+1902,247,AHPC,DAPI,20x,DAPI,trainval
+486,62,AHPC,DAPI,20x,DAPI,trainval
+376,75,AHPC,DAPI,20x,DAPI,trainval
+987,20,AHPC,DAPI,20x,DAPI,trainval
+2762,592,RPC,DAPI,40x,DAPI,trainval
+1091,16,AHPC,DAPI,20x,DAPI,trainval
+1768,12,AHPC,DAPI,20x,DAPI,trainval
+2053,40,AHPC,DAPI,20x,DAPI,trainval
+552,103,AHPC,DAPI,20x,DAPI,trainval
+2161,89,AHPC,DAPI,20x,DAPI,trainval
+1404,104,AHPC,DAPI,20x,DAPI,trainval
+1396,79,AHPC,DAPI,20x,DAPI,trainval
+1973,177,AHPC,DAPI,20x,DAPI,trainval
+125,96,AHPC,DAPI,20x,DAPI,trainval
+1443,133,AHPC,DAPI,20x,DAPI,trainval
+1717,250,AHPC,DAPI,20x,DAPI,trainval
+162,84,AHPC,DAPI,20x,DAPI,trainval
+2742,246,RPC,DAPI,40x,DAPI,trainval
+1191,104,AHPC,DAPI,20x,DAPI,trainval
+1134,42,AHPC,DAPI,20x,DAPI,trainval
+1213,45,AHPC,DAPI,20x,DAPI,trainval
+2760,366,RPC,DAPI,40x,DAPI,trainval
+2079,121,AHPC,DAPI,20x,DAPI,trainval
+402,164,AHPC,DAPI,20x,DAPI,trainval
+1805,177,AHPC,DAPI,20x,DAPI,trainval
+2940,329,RPC,DAPI,40x,DAPI,trainval
+558,117,AHPC,DAPI,20x,DAPI,trainval
+2941,300,RPC,DAPI,40x,DAPI,trainval
+1298,43,AHPC,DAPI,20x,DAPI,trainval
+1444,94,AHPC,DAPI,20x,DAPI,trainval
+922,140,AHPC,DAPI,20x,DAPI,trainval
+1388,43,AHPC,DAPI,20x,DAPI,trainval
+1323,140,AHPC,DAPI,20x,DAPI,trainval
+2515,1117,AHPC,DAPI,20x,DAPI,trainval
+915,79,AHPC,DAPI,20x,DAPI,trainval
+787,74,AHPC,DAPI,20x,DAPI,trainval
+2727,375,RPC,DAPI,40x,DAPI,trainval
+211,35,AHPC,DAPI,20x,DAPI,trainval
+1648,8,AHPC,DAPI,20x,DAPI,trainval
+288,268,AHPC,DAPI,20x,DAPI,trainval
+137,50,AHPC,DAPI,20x,DAPI,trainval
+2747,233,RPC,DAPI,40x,DAPI,trainval
+1590,16,AHPC,DAPI,20x,DAPI,trainval
+498,94,AHPC,DAPI,20x,DAPI,trainval
+1327,233,AHPC,DAPI,20x,DAPI,trainval
+2021,54,AHPC,DAPI,20x,DAPI,trainval
+512,149,AHPC,DAPI,20x,DAPI,trainval
+1579,14,AHPC,DAPI,20x,DAPI,trainval
+2458,1160,AHPC,DAPI,20x,DAPI,trainval
+756,17,AHPC,DAPI,20x,DAPI,trainval
+1465,34,AHPC,DAPI,20x,DAPI,trainval
+2200,24,AHPC,DAPI,20x,DAPI,trainval
+2584,566,AHPC,DAPI,20x,DAPI,trainval
+1667,14,AHPC,DAPI,20x,DAPI,trainval
+957,47,AHPC,DAPI,20x,DAPI,trainval
+1269,94,AHPC,DAPI,20x,DAPI,trainval
+2064,117,AHPC,DAPI,20x,DAPI,trainval
+1060,122,AHPC,DAPI,20x,DAPI,trainval
+296,1273,AHPC,DAPI,20x,DAPI,trainval
+675,192,AHPC,DAPI,20x,DAPI,trainval
+763,19,AHPC,DAPI,20x,DAPI,trainval
+1714,239,AHPC,DAPI,20x,DAPI,trainval
+1943,33,AHPC,DAPI,20x,DAPI,trainval
+388,271,AHPC,DAPI,20x,DAPI,trainval
+506,41,AHPC,DAPI,20x,DAPI,trainval
+911,197,AHPC,DAPI,20x,DAPI,trainval
+3003,141,RPC,DAPI,40x,DAPI,trainval
+745,441,AHPC,DAPI,20x,DAPI,trainval
+2225,12,AHPC,DAPI,20x,DAPI,trainval
+427,129,AHPC,DAPI,20x,DAPI,trainval
+2878,307,RPC,DAPI,40x,DAPI,trainval
+1497,94,AHPC,DAPI,20x,DAPI,trainval
+1682,213,AHPC,DAPI,20x,DAPI,trainval
+593,86,AHPC,DAPI,20x,DAPI,trainval
+808,17,AHPC,DAPI,20x,DAPI,trainval
+2704,425,RPC,DAPI,40x,DAPI,trainval
+876,296,AHPC,DAPI,20x,DAPI,trainval
+2635,1067,AHPC,DAPI,20x,DAPI,trainval
+1784,158,AHPC,DAPI,20x,DAPI,trainval
+2109,23,AHPC,DAPI,20x,DAPI,trainval
+1260,57,AHPC,DAPI,20x,DAPI,trainval
+2633,1055,AHPC,DAPI,20x,DAPI,trainval
+1657,27,AHPC,DAPI,20x,DAPI,trainval
+1728,54,AHPC,DAPI,20x,DAPI,trainval
+1836,52,AHPC,DAPI,20x,DAPI,trainval
+2194,743,AHPC,DAPI,20x,DAPI,trainval
+158,37,AHPC,DAPI,20x,DAPI,trainval
+684,74,AHPC,DAPI,20x,DAPI,trainval
+818,14,AHPC,DAPI,20x,DAPI,trainval
+1433,89,AHPC,DAPI,20x,DAPI,trainval
+2106,118,AHPC,DAPI,20x,DAPI,trainval
+1798,67,AHPC,DAPI,20x,DAPI,trainval
+1271,44,AHPC,DAPI,20x,DAPI,trainval
+704,263,AHPC,DAPI,20x,DAPI,trainval
+2883,294,RPC,DAPI,40x,DAPI,trainval
+2078,129,AHPC,DAPI,20x,DAPI,trainval
+1570,52,AHPC,DAPI,20x,DAPI,trainval
+12,34,AHPC,DAPI,20x,DAPI,trainval
+1104,38,AHPC,DAPI,20x,DAPI,trainval
+435,67,AHPC,DAPI,20x,DAPI,trainval
+1265,85,AHPC,DAPI,20x,DAPI,trainval
+175,72,AHPC,DAPI,20x,DAPI,trainval
+713,291,AHPC,DAPI,20x,DAPI,trainval
+830,63,AHPC,DAPI,20x,DAPI,trainval
+686,376,AHPC,DAPI,20x,DAPI,trainval
+955,32,AHPC,DAPI,20x,DAPI,trainval
+928,311,AHPC,DAPI,20x,DAPI,trainval
+2433,1091,AHPC,DAPI,20x,DAPI,trainval
+2429,81,AHPC,DAPI,20x,DAPI,trainval
+1753,325,AHPC,DAPI,20x,DAPI,trainval
+249,33,AHPC,DAPI,20x,DAPI,trainval
+905,22,AHPC,DAPI,20x,DAPI,trainval
+1868,234,AHPC,DAPI,20x,DAPI,trainval
+2297,1369,AHPC,DAPI,20x,DAPI,trainval
+2156,215,AHPC,DAPI,20x,DAPI,trainval
+1938,42,AHPC,DAPI,20x,DAPI,trainval
+1051,26,AHPC,DAPI,20x,DAPI,trainval
+1236,44,AHPC,DAPI,20x,DAPI,trainval
+2499,633,AHPC,DAPI,20x,DAPI,trainval
+2877,209,RPC,DAPI,40x,DAPI,trainval
+1941,62,AHPC,DAPI,20x,DAPI,trainval
+1206,58,AHPC,DAPI,20x,DAPI,trainval
+1834,156,AHPC,DAPI,20x,DAPI,trainval
+802,120,AHPC,DAPI,20x,DAPI,trainval
+970,56,AHPC,DAPI,20x,DAPI,trainval
+221,74,AHPC,DAPI,20x,DAPI,trainval
+43,87,AHPC,DAPI,20x,DAPI,trainval
+1937,62,AHPC,DAPI,20x,DAPI,trainval
+2286,1099,AHPC,DAPI,20x,DAPI,trainval
+254,42,AHPC,DAPI,20x,DAPI,trainval
+1239,49,AHPC,DAPI,20x,DAPI,trainval
+2163,471,AHPC,DAPI,20x,DAPI,trainval
+1744,250,AHPC,DAPI,20x,DAPI,trainval
+121,52,AHPC,DAPI,20x,DAPI,trainval
+2956,285,RPC,DAPI,40x,DAPI,trainval
+1997,85,AHPC,DAPI,20x,DAPI,trainval
+707,656,AHPC,DAPI,20x,DAPI,trainval
+2179,393,AHPC,DAPI,20x,DAPI,trainval
+2822,206,RPC,DAPI,40x,DAPI,trainval
+2184,300,AHPC,DAPI,20x,DAPI,trainval
+180,44,AHPC,DAPI,20x,DAPI,trainval
+2274,2015,AHPC,DAPI,20x,DAPI,trainval
+62,33,AHPC,DAPI,20x,DAPI,trainval
+1011,38,AHPC,DAPI,20x,DAPI,trainval
+1630,14,AHPC,DAPI,20x,DAPI,trainval
+1578,169,AHPC,DAPI,20x,DAPI,trainval
+898,248,AHPC,DAPI,20x,DAPI,trainval
+2026,91,AHPC,DAPI,20x,DAPI,trainval
+1514,24,AHPC,DAPI,20x,DAPI,trainval
+2164,194,AHPC,DAPI,20x,DAPI,trainval
+1157,51,AHPC,DAPI,20x,DAPI,trainval
+1411,203,AHPC,DAPI,20x,DAPI,trainval
+1715,239,AHPC,DAPI,20x,DAPI,trainval
+354,32,AHPC,DAPI,20x,DAPI,trainval
+2917,227,RPC,DAPI,40x,DAPI,trainval
+178,163,AHPC,DAPI,20x,DAPI,trainval
+2149,151,AHPC,DAPI,20x,DAPI,trainval
+716,173,AHPC,DAPI,20x,DAPI,trainval
+2936,289,RPC,DAPI,40x,DAPI,trainval
+923,81,AHPC,DAPI,20x,DAPI,trainval
+449,46,AHPC,DAPI,20x,DAPI,trainval
+2384,1609,AHPC,DAPI,20x,DAPI,trainval
+2627,990,AHPC,DAPI,20x,DAPI,trainval
+2154,238,AHPC,DAPI,20x,DAPI,trainval
+2786,531,RPC,DAPI,40x,DAPI,trainval
+2382,1981,AHPC,DAPI,20x,DAPI,trainval
+1822,117,AHPC,DAPI,20x,DAPI,trainval
+2767,352,RPC,DAPI,40x,DAPI,trainval
+1463,53,AHPC,DAPI,20x,DAPI,trainval
+1368,69,AHPC,DAPI,20x,DAPI,trainval
+2000,129,AHPC,DAPI,20x,DAPI,trainval
+1646,24,AHPC,DAPI,20x,DAPI,trainval
+1007,22,AHPC,DAPI,20x,DAPI,trainval
+325,92,AHPC,DAPI,20x,DAPI,trainval
+1276,90,AHPC,DAPI,20x,DAPI,trainval
+2825,307,RPC,DAPI,40x,DAPI,trainval
+136,49,AHPC,DAPI,20x,DAPI,trainval
+10,82,AHPC,DAPI,20x,DAPI,trainval
+1145,56,AHPC,DAPI,20x,DAPI,trainval
+2170,265,AHPC,DAPI,20x,DAPI,trainval
+466,77,AHPC,DAPI,20x,DAPI,trainval
+487,106,AHPC,DAPI,20x,DAPI,trainval
+597,266,AHPC,DAPI,20x,DAPI,trainval
+409,639,AHPC,DAPI,20x,DAPI,trainval
+166,84,AHPC,DAPI,20x,DAPI,trainval
+2303,724,AHPC,DAPI,20x,DAPI,trainval
+437,64,AHPC,DAPI,20x,DAPI,trainval
+2901,272,RPC,DAPI,40x,DAPI,trainval
+2138,584,AHPC,DAPI,20x,DAPI,trainval
+1773,10,AHPC,DAPI,20x,DAPI,trainval
+2604,548,AHPC,DAPI,20x,DAPI,trainval
+2134,126,AHPC,DAPI,20x,DAPI,trainval
+2216,47,AHPC,DAPI,20x,DAPI,trainval
+940,121,AHPC,DAPI,20x,DAPI,trainval
+1356,56,AHPC,DAPI,20x,DAPI,trainval
+1469,57,AHPC,DAPI,20x,DAPI,trainval
+2369,1561,AHPC,DAPI,20x,DAPI,trainval
+2820,321,RPC,DAPI,40x,DAPI,trainval
+2427,699,AHPC,DAPI,20x,DAPI,trainval
+2119,96,AHPC,DAPI,20x,DAPI,trainval
+769,56,AHPC,DAPI,20x,DAPI,trainval
+933,112,AHPC,DAPI,20x,DAPI,trainval
+897,87,AHPC,DAPI,20x,DAPI,trainval
+281,1034,AHPC,DAPI,20x,DAPI,trainval
+7,34,AHPC,DAPI,20x,DAPI,trainval
+1111,23,AHPC,DAPI,20x,DAPI,trainval
+2540,1177,AHPC,DAPI,20x,DAPI,trainval
+2003,135,AHPC,DAPI,20x,DAPI,trainval
+1776,4,AHPC,DAPI,20x,DAPI,trainval
+2961,361,RPC,DAPI,40x,DAPI,trainval
+2278,2348,AHPC,DAPI,20x,DAPI,trainval
+2489,560,AHPC,DAPI,20x,DAPI,trainval
+919,26,AHPC,DAPI,20x,DAPI,trainval
+1652,29,AHPC,DAPI,20x,DAPI,trainval
+1337,47,AHPC,DAPI,20x,DAPI,trainval
+606,307,AHPC,DAPI,20x,DAPI,trainval
+262,922,AHPC,DAPI,20x,DAPI,trainval
+1374,55,AHPC,DAPI,20x,DAPI,trainval
+844,40,AHPC,DAPI,20x,DAPI,trainval
+334,237,AHPC,DAPI,20x,DAPI,trainval
+223,54,AHPC,DAPI,20x,DAPI,trainval
+2485,580,AHPC,DAPI,20x,DAPI,trainval
+1720,173,AHPC,DAPI,20x,DAPI,trainval
+1587,44,AHPC,DAPI,20x,DAPI,trainval
+868,31,AHPC,DAPI,20x,DAPI,trainval
+1947,33,AHPC,DAPI,20x,DAPI,trainval
+2839,262,RPC,DAPI,40x,DAPI,trainval
+2744,182,RPC,DAPI,40x,DAPI,trainval
+2442,1017,AHPC,DAPI,20x,DAPI,trainval
+1876,109,AHPC,DAPI,20x,DAPI,trainval
+1804,141,AHPC,DAPI,20x,DAPI,trainval
+581,324,AHPC,DAPI,20x,DAPI,trainval
+1247,41,AHPC,DAPI,20x,DAPI,trainval
+1378,53,AHPC,DAPI,20x,DAPI,trainval
+99,52,AHPC,DAPI,20x,DAPI,trainval
+973,42,AHPC,DAPI,20x,DAPI,trainval
+551,92,AHPC,DAPI,20x,DAPI,trainval
+1738,56,AHPC,DAPI,20x,DAPI,trainval
+2494,1283,AHPC,DAPI,20x,DAPI,trainval
+1895,121,AHPC,DAPI,20x,DAPI,trainval
+2594,766,AHPC,DAPI,20x,DAPI,trainval
+731,346,AHPC,DAPI,20x,DAPI,trainval
+501,56,AHPC,DAPI,20x,DAPI,trainval
+2074,81,AHPC,DAPI,20x,DAPI,trainval
+418,187,AHPC,DAPI,20x,DAPI,trainval
+2662,824,AHPC,DAPI,20x,DAPI,trainval
+1281,67,AHPC,DAPI,20x,DAPI,trainval
+642,65,AHPC,DAPI,20x,DAPI,trainval
+109,23,AHPC,DAPI,20x,DAPI,trainval
+2335,2103,AHPC,DAPI,20x,DAPI,trainval
+1262,69,AHPC,DAPI,20x,DAPI,trainval
+1470,30,AHPC,DAPI,20x,DAPI,trainval
+765,132,AHPC,DAPI,20x,DAPI,trainval
+843,111,AHPC,DAPI,20x,DAPI,trainval
+2895,121,RPC,DAPI,40x,DAPI,trainval
+508,173,AHPC,DAPI,20x,DAPI,trainval
+1977,88,AHPC,DAPI,20x,DAPI,trainval
+2104,35,AHPC,DAPI,20x,DAPI,trainval
+2101,114,AHPC,DAPI,20x,DAPI,trainval
+744,842,AHPC,DAPI,20x,DAPI,trainval
+2087,98,AHPC,DAPI,20x,DAPI,trainval
+633,421,AHPC,DAPI,20x,DAPI,trainval
+708,80,AHPC,DAPI,20x,DAPI,trainval
+143,329,AHPC,DAPI,20x,DAPI,trainval
+1696,351,AHPC,DAPI,20x,DAPI,trainval
+1723,63,AHPC,DAPI,20x,DAPI,trainval
+821,281,AHPC,DAPI,20x,DAPI,trainval
+1580,10,AHPC,DAPI,20x,DAPI,trainval
+570,109,AHPC,DAPI,20x,DAPI,trainval
+5,60,AHPC,DAPI,20x,DAPI,trainval
+1984,95,AHPC,DAPI,20x,DAPI,trainval
+2637,1026,AHPC,DAPI,20x,DAPI,trainval
+2357,1567,AHPC,DAPI,20x,DAPI,trainval
+1577,8,AHPC,DAPI,20x,DAPI,trainval
+2764,371,RPC,DAPI,40x,DAPI,trainval
+1569,70,AHPC,DAPI,20x,DAPI,trainval
+590,204,AHPC,DAPI,20x,DAPI,trainval
+2918,289,RPC,DAPI,40x,DAPI,trainval
+1334,36,AHPC,DAPI,20x,DAPI,trainval
+2346,1680,AHPC,DAPI,20x,DAPI,trainval
+1109,123,AHPC,DAPI,20x,DAPI,trainval
+2067,84,AHPC,DAPI,20x,DAPI,trainval
+1165,75,AHPC,DAPI,20x,DAPI,trainval
+1256,25,AHPC,DAPI,20x,DAPI,trainval
+1702,146,AHPC,DAPI,20x,DAPI,trainval
+1273,41,AHPC,DAPI,20x,DAPI,trainval
+2479,1237,AHPC,DAPI,20x,DAPI,trainval
+2880,263,RPC,DAPI,40x,DAPI,trainval
+2052,29,AHPC,DAPI,20x,DAPI,trainval
+220,71,AHPC,DAPI,20x,DAPI,trainval
+1223,70,AHPC,DAPI,20x,DAPI,trainval
+683,259,AHPC,DAPI,20x,DAPI,trainval
+1883,178,AHPC,DAPI,20x,DAPI,trainval
+1528,98,AHPC,DAPI,20x,DAPI,trainval
+1978,187,AHPC,DAPI,20x,DAPI,trainval
+2192,202,AHPC,DAPI,20x,DAPI,trainval
+115,99,AHPC,DAPI,20x,DAPI,trainval
+1934,31,AHPC,DAPI,20x,DAPI,trainval
+1761,43,AHPC,DAPI,20x,DAPI,trainval
+2826,373,RPC,DAPI,40x,DAPI,trainval
+1215,37,AHPC,DAPI,20x,DAPI,trainval
+908,30,AHPC,DAPI,20x,DAPI,trainval
+736,730,AHPC,DAPI,20x,DAPI,trainval
+2301,1031,AHPC,DAPI,20x,DAPI,trainval
+2165,322,AHPC,DAPI,20x,DAPI,trainval
+609,240,AHPC,DAPI,20x,DAPI,trainval
+964,53,AHPC,DAPI,20x,DAPI,trainval
+585,177,AHPC,DAPI,20x,DAPI,trainval
+2781,526,RPC,DAPI,40x,DAPI,trainval
+168,71,AHPC,DAPI,20x,DAPI,trainval
+1245,64,AHPC,DAPI,20x,DAPI,trainval
+2016,113,AHPC,DAPI,20x,DAPI,trainval
+38,23,AHPC,DAPI,20x,DAPI,trainval
+2844,330,RPC,DAPI,40x,DAPI,trainval
+405,86,AHPC,DAPI,20x,DAPI,trainval
+2530,1294,AHPC,DAPI,20x,DAPI,trainval
+1898,61,AHPC,DAPI,20x,DAPI,trainval
+971,60,AHPC,DAPI,20x,DAPI,trainval
+2405,1780,AHPC,DAPI,20x,DAPI,trainval
+825,416,AHPC,DAPI,20x,DAPI,trainval
+1212,40,AHPC,DAPI,20x,DAPI,trainval
+39,44,AHPC,DAPI,20x,DAPI,trainval
+2451,992,AHPC,DAPI,20x,DAPI,trainval
+1675,16,AHPC,DAPI,20x,DAPI,trainval
+1706,117,AHPC,DAPI,20x,DAPI,trainval
+2121,267,AHPC,DAPI,20x,DAPI,trainval
+2333,1551,AHPC,DAPI,20x,DAPI,trainval
+2036,46,AHPC,DAPI,20x,DAPI,trainval
+2977,281,RPC,DAPI,40x,DAPI,trainval
+191,109,AHPC,DAPI,20x,DAPI,trainval
+568,140,AHPC,DAPI,20x,DAPI,trainval
+80,69,AHPC,DAPI,20x,DAPI,trainval
+1243,91,AHPC,DAPI,20x,DAPI,trainval
+1096,61,AHPC,DAPI,20x,DAPI,trainval
+2784,342,RPC,DAPI,40x,DAPI,trainval
+1748,43,AHPC,DAPI,20x,DAPI,trainval
+33,43,AHPC,DAPI,20x,DAPI,trainval
+2586,666,AHPC,DAPI,20x,DAPI,trainval
+1303,54,AHPC,DAPI,20x,DAPI,trainval
+2359,2099,AHPC,DAPI,20x,DAPI,trainval
+1982,127,AHPC,DAPI,20x,DAPI,trainval
+2043,204,AHPC,DAPI,20x,DAPI,trainval
+85,102,AHPC,DAPI,20x,DAPI,trainval
+2686,276,RPC,DAPI,40x,DAPI,trainval
+1496,147,AHPC,DAPI,20x,DAPI,trainval
+2140,158,AHPC,DAPI,20x,DAPI,trainval
+2720,594,RPC,DAPI,40x,DAPI,trainval
+370,33,AHPC,DAPI,20x,DAPI,trainval
+2983,273,RPC,DAPI,40x,DAPI,trainval
+3024,115,RPC,DAPI,40x,DAPI,trainval
+1741,20,AHPC,DAPI,20x,DAPI,trainval
+2457,992,AHPC,DAPI,20x,DAPI,trainval
+54,80,AHPC,DAPI,20x,DAPI,trainval
+1026,15,AHPC,DAPI,20x,DAPI,trainval
+600,334,AHPC,DAPI,20x,DAPI,trainval
+2741,329,RPC,DAPI,40x,DAPI,trainval
+329,185,AHPC,DAPI,20x,DAPI,trainval
+2034,91,AHPC,DAPI,20x,DAPI,trainval
+2213,94,AHPC,DAPI,20x,DAPI,trainval
+613,327,AHPC,DAPI,20x,DAPI,trainval
+258,38,AHPC,DAPI,20x,DAPI,trainval
+2841,162,RPC,DAPI,40x,DAPI,trainval
+1851,56,AHPC,DAPI,20x,DAPI,trainval
+2209,27,AHPC,DAPI,20x,DAPI,trainval
+2876,252,RPC,DAPI,40x,DAPI,trainval
+369,177,AHPC,DAPI,20x,DAPI,trainval
+1362,48,AHPC,DAPI,20x,DAPI,trainval
+1576,26,AHPC,DAPI,20x,DAPI,trainval
+2157,78,AHPC,DAPI,20x,DAPI,trainval
+2761,380,RPC,DAPI,40x,DAPI,trainval
+564,208,AHPC,DAPI,20x,DAPI,trainval
+630,393,AHPC,DAPI,20x,DAPI,trainval
+2748,225,RPC,DAPI,40x,DAPI,trainval
+739,479,AHPC,DAPI,20x,DAPI,trainval
+673,149,AHPC,DAPI,20x,DAPI,trainval
+1886,68,AHPC,DAPI,20x,DAPI,trainval
+2031,106,AHPC,DAPI,20x,DAPI,trainval
+1371,46,AHPC,DAPI,20x,DAPI,trainval
+1597,23,AHPC,DAPI,20x,DAPI,trainval
+2688,325,RPC,DAPI,40x,DAPI,trainval
+129,37,AHPC,DAPI,20x,DAPI,trainval
+1468,54,AHPC,DAPI,20x,DAPI,trainval
+1831,199,AHPC,DAPI,20x,DAPI,trainval
+2884,308,RPC,DAPI,40x,DAPI,trainval
+2923,311,RPC,DAPI,40x,DAPI,trainval
+446,61,AHPC,DAPI,20x,DAPI,trainval
+2875,249,RPC,DAPI,40x,DAPI,trainval
+705,381,AHPC,DAPI,20x,DAPI,trainval
+659,111,AHPC,DAPI,20x,DAPI,trainval
+1407,166,AHPC,DAPI,20x,DAPI,trainval
+2313,1452,AHPC,DAPI,20x,DAPI,trainval
+468,89,AHPC,DAPI,20x,DAPI,trainval
+795,96,AHPC,DAPI,20x,DAPI,trainval
+2746,197,RPC,DAPI,40x,DAPI,trainval
+2102,45,AHPC,DAPI,20x,DAPI,trainval
+436,54,AHPC,DAPI,20x,DAPI,trainval
+1698,171,AHPC,DAPI,20x,DAPI,trainval
+2476,1509,AHPC,DAPI,20x,DAPI,trainval
+1512,13,AHPC,DAPI,20x,DAPI,trainval
+153,53,AHPC,DAPI,20x,DAPI,trainval
+996,33,AHPC,DAPI,20x,DAPI,trainval
+1990,81,AHPC,DAPI,20x,DAPI,trainval
+1772,12,AHPC,DAPI,20x,DAPI,trainval
+2631,953,AHPC,DAPI,20x,DAPI,trainval
+496,96,AHPC,DAPI,20x,DAPI,trainval
+147,72,AHPC,DAPI,20x,DAPI,trainval
+1393,87,AHPC,DAPI,20x,DAPI,trainval
+2608,800,AHPC,DAPI,20x,DAPI,trainval
+353,42,AHPC,DAPI,20x,DAPI,trainval
+1089,19,AHPC,DAPI,20x,DAPI,trainval
+1258,93,AHPC,DAPI,20x,DAPI,trainval
+420,147,AHPC,DAPI,20x,DAPI,trainval
+1200,70,AHPC,DAPI,20x,DAPI,trainval
+2758,366,RPC,DAPI,40x,DAPI,trainval
+2373,906,AHPC,DAPI,20x,DAPI,trainval
+1548,60,AHPC,DAPI,20x,DAPI,trainval
+2195,300,AHPC,DAPI,20x,DAPI,trainval
+1598,16,AHPC,DAPI,20x,DAPI,trainval
+1136,66,AHPC,DAPI,20x,DAPI,trainval
+2113,93,AHPC,DAPI,20x,DAPI,trainval
+753,46,AHPC,DAPI,20x,DAPI,trainval
+472,106,AHPC,DAPI,20x,DAPI,trainval
+1189,74,AHPC,DAPI,20x,DAPI,trainval
+1987,95,AHPC,DAPI,20x,DAPI,trainval
+510,35,AHPC,DAPI,20x,DAPI,trainval
+1865,97,AHPC,DAPI,20x,DAPI,trainval
+1670,14,AHPC,DAPI,20x,DAPI,trainval
+1502,28,AHPC,DAPI,20x,DAPI,trainval
+1813,59,AHPC,DAPI,20x,DAPI,trainval
+2899,293,RPC,DAPI,40x,DAPI,trainval
+20,57,AHPC,DAPI,20x,DAPI,trainval
+293,937,AHPC,DAPI,20x,DAPI,trainval
+301,1047,AHPC,DAPI,20x,DAPI,trainval
+1556,47,AHPC,DAPI,20x,DAPI,trainval
+2322,1301,AHPC,DAPI,20x,DAPI,trainval
+2408,1920,AHPC,DAPI,20x,DAPI,trainval
+1226,92,AHPC,DAPI,20x,DAPI,trainval
+2545,859,AHPC,DAPI,20x,DAPI,trainval
+3023,244,RPC,DAPI,40x,DAPI,trainval
+355,232,AHPC,DAPI,20x,DAPI,trainval
+543,134,AHPC,DAPI,20x,DAPI,trainval
+1401,168,AHPC,DAPI,20x,DAPI,trainval
+2533,1482,AHPC,DAPI,20x,DAPI,trainval
+1729,45,AHPC,DAPI,20x,DAPI,trainval
+724,639,AHPC,DAPI,20x,DAPI,trainval
+2709,288,RPC,DAPI,40x,DAPI,trainval
+1100,32,AHPC,DAPI,20x,DAPI,trainval
+1168,93,AHPC,DAPI,20x,DAPI,trainval
+2108,47,AHPC,DAPI,20x,DAPI,trainval
+2723,582,RPC,DAPI,40x,DAPI,trainval
+2309,1505,AHPC,DAPI,20x,DAPI,trainval
+2397,1992,AHPC,DAPI,20x,DAPI,trainval
+1389,32,AHPC,DAPI,20x,DAPI,trainval
+921,277,AHPC,DAPI,20x,DAPI,trainval
+1803,162,AHPC,DAPI,20x,DAPI,trainval
+2176,298,AHPC,DAPI,20x,DAPI,trainval
+2685,295,RPC,DAPI,40x,DAPI,trainval
+1605,16,AHPC,DAPI,20x,DAPI,trainval
+349,161,AHPC,DAPI,20x,DAPI,trainval
+1864,265,AHPC,DAPI,20x,DAPI,trainval
+781,85,AHPC,DAPI,20x,DAPI,trainval
+718,214,AHPC,DAPI,20x,DAPI,trainval
+2577,650,AHPC,DAPI,20x,DAPI,trainval
+856,22,AHPC,DAPI,20x,DAPI,trainval
+2350,2488,AHPC,DAPI,20x,DAPI,trainval
+906,58,AHPC,DAPI,20x,DAPI,trainval
+2632,1259,AHPC,DAPI,20x,DAPI,trainval
+2207,13,AHPC,DAPI,20x,DAPI,trainval
+2957,180,RPC,DAPI,40x,DAPI,trainval
+228,46,AHPC,DAPI,20x,DAPI,trainval
+1811,52,AHPC,DAPI,20x,DAPI,trainval
+2944,331,RPC,DAPI,40x,DAPI,trainval
+2960,157,RPC,DAPI,40x,DAPI,trainval
+838,93,AHPC,DAPI,20x,DAPI,trainval
+577,133,AHPC,DAPI,20x,DAPI,trainval
+2028,206,AHPC,DAPI,20x,DAPI,trainval
+1225,35,AHPC,DAPI,20x,DAPI,trainval
+2320,1328,AHPC,DAPI,20x,DAPI,trainval
+1036,23,AHPC,DAPI,20x,DAPI,trainval
+57,62,AHPC,DAPI,20x,DAPI,trainval
+2980,293,RPC,DAPI,40x,DAPI,trainval
+1508,28,AHPC,DAPI,20x,DAPI,trainval
+2238,117,AHPC,DAPI,20x,DAPI,trainval
+273,695,AHPC,DAPI,20x,DAPI,trainval
+1476,58,AHPC,DAPI,20x,DAPI,trainval
+24,35,AHPC,DAPI,20x,DAPI,trainval
+2385,1412,AHPC,DAPI,20x,DAPI,trainval
+502,226,AHPC,DAPI,20x,DAPI,trainval
+2340,1676,AHPC,DAPI,20x,DAPI,trainval
+762,33,AHPC,DAPI,20x,DAPI,trainval
+2418,1826,AHPC,DAPI,20x,DAPI,trainval
+2270,1585,AHPC,DAPI,20x,DAPI,trainval
+2284,1021,AHPC,DAPI,20x,DAPI,trainval
+1672,26,AHPC,DAPI,20x,DAPI,trainval
+1448,166,AHPC,DAPI,20x,DAPI,trainval
+2461,780,AHPC,DAPI,20x,DAPI,trainval
+1968,82,AHPC,DAPI,20x,DAPI,trainval
+2824,286,RPC,DAPI,40x,DAPI,trainval
+2368,2346,AHPC,DAPI,20x,DAPI,trainval
+1279,61,AHPC,DAPI,20x,DAPI,trainval
+946,49,AHPC,DAPI,20x,DAPI,trainval
+2483,785,AHPC,DAPI,20x,DAPI,trainval
+1766,202,AHPC,DAPI,20x,DAPI,trainval
+961,19,AHPC,DAPI,20x,DAPI,trainval
+3004,140,RPC,DAPI,40x,DAPI,trainval
+1018,51,AHPC,DAPI,20x,DAPI,trainval
+2351,1442,AHPC,DAPI,20x,DAPI,trainval
+1076,19,AHPC,DAPI,20x,DAPI,trainval
+1956,58,AHPC,DAPI,20x,DAPI,trainval
+2691,153,RPC,DAPI,40x,DAPI,trainval
+1466,82,AHPC,DAPI,20x,DAPI,trainval
+1927,47,AHPC,DAPI,20x,DAPI,trainval
+1618,32,AHPC,DAPI,20x,DAPI,trainval
+157,36,AHPC,DAPI,20x,DAPI,trainval
+1701,228,AHPC,DAPI,20x,DAPI,trainval
+1292,37,AHPC,DAPI,20x,DAPI,trainval
+2223,7,AHPC,DAPI,20x,DAPI,trainval
+811,47,AHPC,DAPI,20x,DAPI,trainval
+1867,27,AHPC,DAPI,20x,DAPI,trainval
+2641,974,AHPC,DAPI,20x,DAPI,trainval
+2614,746,AHPC,DAPI,20x,DAPI,trainval
+49,59,AHPC,DAPI,20x,DAPI,trainval
+520,54,AHPC,DAPI,20x,DAPI,trainval
+1610,20,AHPC,DAPI,20x,DAPI,trainval
+2548,1283,AHPC,DAPI,20x,DAPI,trainval
+514,44,AHPC,DAPI,20x,DAPI,trainval
+2023,89,AHPC,DAPI,20x,DAPI,trainval
+1709,225,AHPC,DAPI,20x,DAPI,trainval
+322,240,AHPC,DAPI,20x,DAPI,trainval
+1677,16,AHPC,DAPI,20x,DAPI,trainval
+1529,57,AHPC,DAPI,20x,DAPI,trainval
+1341,31,AHPC,DAPI,20x,DAPI,trainval
+2314,1770,AHPC,DAPI,20x,DAPI,trainval
+1735,76,AHPC,DAPI,20x,DAPI,trainval
+2055,257,AHPC,DAPI,20x,DAPI,trainval
+2285,986,AHPC,DAPI,20x,DAPI,trainval
+2687,278,RPC,DAPI,40x,DAPI,trainval
+2624,1290,AHPC,DAPI,20x,DAPI,trainval
+1186,61,AHPC,DAPI,20x,DAPI,trainval
+1128,49,AHPC,DAPI,20x,DAPI,trainval
+1426,54,AHPC,DAPI,20x,DAPI,trainval
+1629,6,AHPC,DAPI,20x,DAPI,trainval
+773,226,AHPC,DAPI,20x,DAPI,trainval
+732,396,AHPC,DAPI,20x,DAPI,trainval
+1014,45,AHPC,DAPI,20x,DAPI,trainval
+103,34,AHPC,DAPI,20x,DAPI,trainval
+1733,44,AHPC,DAPI,20x,DAPI,trainval
+949,44,AHPC,DAPI,20x,DAPI,trainval
+274,297,AHPC,DAPI,20x,DAPI,trainval
+1230,63,AHPC,DAPI,20x,DAPI,trainval
+1126,70,AHPC,DAPI,20x,DAPI,trainval
+2981,284,RPC,DAPI,40x,DAPI,trainval
+2275,2157,AHPC,DAPI,20x,DAPI,trainval
+244,37,AHPC,DAPI,20x,DAPI,trainval
+679,126,AHPC,DAPI,20x,DAPI,trainval
+1810,126,AHPC,DAPI,20x,DAPI,trainval
+1552,222,AHPC,DAPI,20x,DAPI,trainval
+2821,264,RPC,DAPI,40x,DAPI,trainval
+2724,561,RPC,DAPI,40x,DAPI,trainval
+382,110,AHPC,DAPI,20x,DAPI,trainval
+1457,30,AHPC,DAPI,20x,DAPI,trainval
+1495,29,AHPC,DAPI,20x,DAPI,trainval
+2780,567,RPC,DAPI,40x,DAPI,trainval
+1174,89,AHPC,DAPI,20x,DAPI,trainval
+2779,563,RPC,DAPI,40x,DAPI,trainval
+261,547,AHPC,DAPI,20x,DAPI,trainval
+145,427,AHPC,DAPI,20x,DAPI,trainval
+2391,2282,AHPC,DAPI,20x,DAPI,trainval
+1183,88,AHPC,DAPI,20x,DAPI,trainval
+2015,86,AHPC,DAPI,20x,DAPI,trainval
+2670,935,AHPC,DAPI,20x,DAPI,trainval
+2005,51,AHPC,DAPI,20x,DAPI,trainval
+1796,107,AHPC,DAPI,20x,DAPI,trainval
+2639,1156,AHPC,DAPI,20x,DAPI,trainval
+2658,635,AHPC,DAPI,20x,DAPI,trainval
+2220,15,AHPC,DAPI,20x,DAPI,trainval
+2759,479,RPC,DAPI,40x,DAPI,trainval
+1626,28,AHPC,DAPI,20x,DAPI,trainval
+342,191,AHPC,DAPI,20x,DAPI,trainval
+448,210,AHPC,DAPI,20x,DAPI,trainval
+1857,287,AHPC,DAPI,20x,DAPI,trainval
+2939,184,RPC,DAPI,40x,DAPI,trainval
+188,91,AHPC,DAPI,20x,DAPI,trainval
+1430,83,AHPC,DAPI,20x,DAPI,trainval
+1415,91,AHPC,DAPI,20x,DAPI,trainval
+1950,70,AHPC,DAPI,20x,DAPI,trainval
+1304,56,AHPC,DAPI,20x,DAPI,trainval
+2783,579,RPC,DAPI,40x,DAPI,trainval
+989,43,AHPC,DAPI,20x,DAPI,trainval
+397,180,AHPC,DAPI,20x,DAPI,trainval
+2512,989,AHPC,DAPI,20x,DAPI,trainval
+200,302,AHPC,DAPI,20x,DAPI,trainval
+1047,18,AHPC,DAPI,20x,DAPI,trainval
+1094,33,AHPC,DAPI,20x,DAPI,trainval
+52,29,AHPC,DAPI,20x,DAPI,trainval
+373,178,AHPC,DAPI,20x,DAPI,trainval
+2708,563,RPC,DAPI,40x,DAPI,trainval
+888,128,AHPC,DAPI,20x,DAPI,trainval
+2963,108,RPC,DAPI,40x,DAPI,trainval
+1827,29,AHPC,DAPI,20x,DAPI,trainval
+98,53,AHPC,DAPI,20x,DAPI,trainval
+851,59,AHPC,DAPI,20x,DAPI,trainval
+1845,143,AHPC,DAPI,20x,DAPI,trainval
+2338,1708,AHPC,DAPI,20x,DAPI,trainval
+2597,563,AHPC,DAPI,20x,DAPI,trainval
+1719,249,AHPC,DAPI,20x,DAPI,trainval
+2400,2305,AHPC,DAPI,20x,DAPI,trainval
+1562,67,AHPC,DAPI,20x,DAPI,trainval
+482,64,AHPC,DAPI,20x,DAPI,trainval
+2916,311,RPC,DAPI,40x,DAPI,trainval
+554,38,AHPC,DAPI,20x,DAPI,trainval
+185,162,AHPC,DAPI,20x,DAPI,trainval
+1730,58,AHPC,DAPI,20x,DAPI,trainval
+954,36,AHPC,DAPI,20x,DAPI,trainval
+2337,2546,AHPC,DAPI,20x,DAPI,trainval
+2042,128,AHPC,DAPI,20x,DAPI,trainval
+320,123,AHPC,DAPI,20x,DAPI,trainval
+2323,775,AHPC,DAPI,20x,DAPI,trainval
+2233,19,AHPC,DAPI,20x,DAPI,trainval
+2510,977,AHPC,DAPI,20x,DAPI,trainval
+2027,104,AHPC,DAPI,20x,DAPI,trainval
+1920,238,AHPC,DAPI,20x,DAPI,trainval
+750,15,AHPC,DAPI,20x,DAPI,trainval
+981,22,AHPC,DAPI,20x,DAPI,trainval
+1151,116,AHPC,DAPI,20x,DAPI,trainval
+1583,55,AHPC,DAPI,20x,DAPI,trainval
+1455,135,AHPC,DAPI,20x,DAPI,trainval
+2585,705,AHPC,DAPI,20x,DAPI,trainval
+1962,193,AHPC,DAPI,20x,DAPI,trainval
+2978,116,RPC,DAPI,40x,DAPI,test
+1746,36,AHPC,DAPI,20x,DAPI,test
+430,201,AHPC,DAPI,20x,DAPI,test
+2711,299,RPC,DAPI,40x,DAPI,test
+2996,176,RPC,DAPI,40x,DAPI,test
+1985,84,AHPC,DAPI,20x,DAPI,test
+2900,215,RPC,DAPI,40x,DAPI,test
+362,80,AHPC,DAPI,20x,DAPI,test
+1350,37,AHPC,DAPI,20x,DAPI,test
+2785,415,RPC,DAPI,40x,DAPI,test
+2493,1399,AHPC,DAPI,20x,DAPI,test
+2235,114,AHPC,DAPI,20x,DAPI,test
+2290,972,AHPC,DAPI,20x,DAPI,test
+2178,93,AHPC,DAPI,20x,DAPI,test
+1345,20,AHPC,DAPI,20x,DAPI,test
+2144,179,AHPC,DAPI,20x,DAPI,test
+3020,107,RPC,DAPI,40x,DAPI,test
+2896,174,RPC,DAPI,40x,DAPI,test
+2579,1142,AHPC,DAPI,20x,DAPI,test
+294,211,AHPC,DAPI,20x,DAPI,test
+1221,51,AHPC,DAPI,20x,DAPI,test
+70,226,AHPC,DAPI,20x,DAPI,test
+252,47,AHPC,DAPI,20x,DAPI,test
+2502,1165,AHPC,DAPI,20x,DAPI,test
+1654,12,AHPC,DAPI,20x,DAPI,test
+1843,62,AHPC,DAPI,20x,DAPI,test
+2153,171,AHPC,DAPI,20x,DAPI,test
+1901,147,AHPC,DAPI,20x,DAPI,test
+1162,55,AHPC,DAPI,20x,DAPI,test
+1797,158,AHPC,DAPI,20x,DAPI,test
+861,18,AHPC,DAPI,20x,DAPI,test
+2085,52,AHPC,DAPI,20x,DAPI,test
+2364,2126,AHPC,DAPI,20x,DAPI,test
+2378,1402,AHPC,DAPI,20x,DAPI,test
+216,845,AHPC,DAPI,20x,DAPI,test
+414,102,AHPC,DAPI,20x,DAPI,test
+657,61,AHPC,DAPI,20x,DAPI,test
+1329,50,AHPC,DAPI,20x,DAPI,test
+647,42,AHPC,DAPI,20x,DAPI,test
+1364,37,AHPC,DAPI,20x,DAPI,test
+2198,1157,AHPC,DAPI,20x,DAPI,test
+411,306,AHPC,DAPI,20x,DAPI,test
+2882,325,RPC,DAPI,40x,DAPI,test
+942,146,AHPC,DAPI,20x,DAPI,test
+1299,36,AHPC,DAPI,20x,DAPI,test
+83,47,AHPC,DAPI,20x,DAPI,test
+1113,34,AHPC,DAPI,20x,DAPI,test
+1317,77,AHPC,DAPI,20x,DAPI,test
+1547,76,AHPC,DAPI,20x,DAPI,test
+1601,17,AHPC,DAPI,20x,DAPI,test
+1526,35,AHPC,DAPI,20x,DAPI,test
+2903,81,RPC,DAPI,40x,DAPI,test
+2607,591,AHPC,DAPI,20x,DAPI,test
+403,54,AHPC,DAPI,20x,DAPI,test
+1952,90,AHPC,DAPI,20x,DAPI,test
+2976,271,RPC,DAPI,40x,DAPI,test
+573,91,AHPC,DAPI,20x,DAPI,test
+1689,176,AHPC,DAPI,20x,DAPI,test
+1017,39,AHPC,DAPI,20x,DAPI,test
+1756,30,AHPC,DAPI,20x,DAPI,test
+1197,135,AHPC,DAPI,20x,DAPI,test
+557,67,AHPC,DAPI,20x,DAPI,test
+1531,31,AHPC,DAPI,20x,DAPI,test
+768,175,AHPC,DAPI,20x,DAPI,test
+1348,40,AHPC,DAPI,20x,DAPI,test
+1958,25,AHPC,DAPI,20x,DAPI,test
+1313,100,AHPC,DAPI,20x,DAPI,test
+1428,81,AHPC,DAPI,20x,DAPI,test
+612,696,AHPC,DAPI,20x,DAPI,test
+654,40,AHPC,DAPI,20x,DAPI,test
+620,233,AHPC,DAPI,20x,DAPI,test
+461,144,AHPC,DAPI,20x,DAPI,test
+257,40,AHPC,DAPI,20x,DAPI,test
+518,120,AHPC,DAPI,20x,DAPI,test
+1054,19,AHPC,DAPI,20x,DAPI,test
+1966,123,AHPC,DAPI,20x,DAPI,test
+234,61,AHPC,DAPI,20x,DAPI,test
+1828,98,AHPC,DAPI,20x,DAPI,test
+2615,963,AHPC,DAPI,20x,DAPI,test
+1492,77,AHPC,DAPI,20x,DAPI,test
+863,15,AHPC,DAPI,20x,DAPI,test
+580,333,AHPC,DAPI,20x,DAPI,test
+243,63,AHPC,DAPI,20x,DAPI,test
+1166,84,AHPC,DAPI,20x,DAPI,test
+2227,22,AHPC,DAPI,20x,DAPI,test
+1207,32,AHPC,DAPI,20x,DAPI,test
+2467,595,AHPC,DAPI,20x,DAPI,test
+213,34,AHPC,DAPI,20x,DAPI,test
+1312,73,AHPC,DAPI,20x,DAPI,test
+1416,70,AHPC,DAPI,20x,DAPI,test
+455,72,AHPC,DAPI,20x,DAPI,test
+804,10,AHPC,DAPI,20x,DAPI,test
+2919,285,RPC,DAPI,40x,DAPI,test
+2722,552,RPC,DAPI,40x,DAPI,test
+3017,175,RPC,DAPI,40x,DAPI,test
+2707,524,RPC,DAPI,40x,DAPI,test
+2712,212,RPC,DAPI,40x,DAPI,test
+1540,346,AHPC,DAPI,20x,DAPI,test
+2902,253,RPC,DAPI,40x,DAPI,test
+71,95,AHPC,DAPI,20x,DAPI,test
+1925,24,AHPC,DAPI,20x,DAPI,test
+28,56,AHPC,DAPI,20x,DAPI,test
+1861,96,AHPC,DAPI,20x,DAPI,test
+2690,281,RPC,DAPI,40x,DAPI,test
+2040,52,AHPC,DAPI,20x,DAPI,test
+117,68,AHPC,DAPI,20x,DAPI,test
+1775,18,AHPC,DAPI,20x,DAPI,test
+2745,227,RPC,DAPI,40x,DAPI,test
+1541,112,AHPC,DAPI,20x,DAPI,test
+575,221,AHPC,DAPI,20x,DAPI,test
+163,30,AHPC,DAPI,20x,DAPI,test
+2181,651,AHPC,DAPI,20x,DAPI,test
+1517,43,AHPC,DAPI,20x,DAPI,test
+2462,1065,AHPC,DAPI,20x,DAPI,test
+775,97,AHPC,DAPI,20x,DAPI,test
+1129,58,AHPC,DAPI,20x,DAPI,test
+1909,59,AHPC,DAPI,20x,DAPI,test
+2843,316,RPC,DAPI,40x,DAPI,test
+1565,64,AHPC,DAPI,20x,DAPI,test
+2066,110,AHPC,DAPI,20x,DAPI,test
+196,276,AHPC,DAPI,20x,DAPI,test
+1452,148,AHPC,DAPI,20x,DAPI,test
+1668,30,AHPC,DAPI,20x,DAPI,test
+1402,98,AHPC,DAPI,20x,DAPI,test
+2414,1494,AHPC,DAPI,20x,DAPI,test
+383,125,AHPC,DAPI,20x,DAPI,test
+1850,76,AHPC,DAPI,20x,DAPI,test
+276,664,AHPC,DAPI,20x,DAPI,test
+1065,257,AHPC,DAPI,20x,DAPI,test
+556,130,AHPC,DAPI,20x,DAPI,test
+2782,577,RPC,DAPI,40x,DAPI,test
+310,273,AHPC,DAPI,20x,DAPI,test
+1143,29,AHPC,DAPI,20x,DAPI,test
+574,162,AHPC,DAPI,20x,DAPI,test
+598,173,AHPC,DAPI,20x,DAPI,test
+2763,350,RPC,DAPI,40x,DAPI,test
+2477,1108,AHPC,DAPI,20x,DAPI,test
+2271,1322,AHPC,DAPI,20x,DAPI,test
+1546,16,AHPC,DAPI,20x,DAPI,test
+2197,238,AHPC,DAPI,20x,DAPI,test
+1917,149,AHPC,DAPI,20x,DAPI,test
+1523,24,AHPC,DAPI,20x,DAPI,test
+2818,192,RPC,DAPI,40x,DAPI,test
+711,354,AHPC,DAPI,20x,DAPI,test
+55,33,AHPC,DAPI,20x,DAPI,test
+2487,674,AHPC,DAPI,20x,DAPI,test
+2389,1830,AHPC,DAPI,20x,DAPI,test
+1155,44,AHPC,DAPI,20x,DAPI,test
+1906,100,AHPC,DAPI,20x,DAPI,test
+1460,17,AHPC,DAPI,20x,DAPI,test
+1564,71,AHPC,DAPI,20x,DAPI,test
+2689,266,RPC,DAPI,40x,DAPI,test
+2726,437,RPC,DAPI,40x,DAPI,test
+2671,957,AHPC,DAPI,20x,DAPI,test
+2148,174,AHPC,DAPI,20x,DAPI,test
+2529,2098,AHPC,DAPI,20x,DAPI,test
+2361,1572,AHPC,DAPI,20x,DAPI,test
+2507,806,AHPC,DAPI,20x,DAPI,test
+1660,140,AHPC,DAPI,20x,DAPI,test
+772,54,AHPC,DAPI,20x,DAPI,test
+934,288,AHPC,DAPI,20x,DAPI,test
+1392,191,AHPC,DAPI,20x,DAPI,test
+2473,358,AHPC,DAPI,20x,DAPI,test
+1339,116,AHPC,DAPI,20x,DAPI,test
+348,294,AHPC,DAPI,20x,DAPI,test
+969,34,AHPC,DAPI,20x,DAPI,test
+2743,255,RPC,DAPI,40x,DAPI,test
+480,141,AHPC,DAPI,20x,DAPI,test
+1896,287,AHPC,DAPI,20x,DAPI,test
+459,65,AHPC,DAPI,20x,DAPI,test
+526,55,AHPC,DAPI,20x,DAPI,test
+602,561,AHPC,DAPI,20x,DAPI,test
+8,44,AHPC,DAPI,20x,DAPI,test
+1048,44,AHPC,DAPI,20x,DAPI,test
+2199,53,AHPC,DAPI,20x,DAPI,test
+2640,902,AHPC,DAPI,20x,DAPI,test
+72,52,AHPC,DAPI,20x,DAPI,test
+2205,52,AHPC,DAPI,20x,DAPI,test
+2004,90,AHPC,DAPI,20x,DAPI,test
+256,96,AHPC,DAPI,20x,DAPI,test
+531,59,AHPC,DAPI,20x,DAPI,test
+1255,92,AHPC,DAPI,20x,DAPI,test
+1801,159,AHPC,DAPI,20x,DAPI,test
+2419,1514,AHPC,DAPI,20x,DAPI,test
+470,119,AHPC,DAPI,20x,DAPI,test
+1422,94,AHPC,DAPI,20x,DAPI,test
+1535,23,AHPC,DAPI,20x,DAPI,test
+3019,131,RPC,DAPI,40x,DAPI,test
+2381,1822,AHPC,DAPI,20x,DAPI,test
+803,92,AHPC,DAPI,20x,DAPI,test
+1387,112,AHPC,DAPI,20x,DAPI,test
+1910,107,AHPC,DAPI,20x,DAPI,test
+1505,41,AHPC,DAPI,20x,DAPI,test
+1380,29,AHPC,DAPI,20x,DAPI,test
+943,271,AHPC,DAPI,20x,DAPI,test
+992,302,AHPC,DAPI,20x,DAPI,test
+1038,150,AHPC,DAPI,20x,DAPI,test
+1306,166,AHPC,DAPI,20x,DAPI,test
+224,62,AHPC,DAPI,20x,DAPI,test
+979,29,AHPC,DAPI,20x,DAPI,test
+1300,25,AHPC,DAPI,20x,DAPI,test
+1159,81,AHPC,DAPI,20x,DAPI,test
+1622,63,AHPC,DAPI,20x,DAPI,test
+241,45,AHPC,DAPI,20x,DAPI,test
+460,99,AHPC,DAPI,20x,DAPI,test
+152,61,AHPC,DAPI,20x,DAPI,test
+2655,866,AHPC,DAPI,20x,DAPI,test
+1532,60,AHPC,DAPI,20x,DAPI,test
+3,130,AHPC,DAPI,20x,DAPI,test
+3021,226,RPC,DAPI,40x,DAPI,test
+1754,107,AHPC,DAPI,20x,DAPI,test
+1694,304,AHPC,DAPI,20x,DAPI,test
+916,127,AHPC,DAPI,20x,DAPI,test
+1167,61,AHPC,DAPI,20x,DAPI,test
+41,160,AHPC,DAPI,20x,DAPI,test
+2599,540,AHPC,DAPI,20x,DAPI,test
+1386,39,AHPC,DAPI,20x,DAPI,test
+177,413,AHPC,DAPI,20x,DAPI,test
+881,94,AHPC,DAPI,20x,DAPI,test
+984,51,AHPC,DAPI,20x,DAPI,test
+40,120,AHPC,DAPI,20x,DAPI,test
+142,35,AHPC,DAPI,20x,DAPI,test
+2412,1657,AHPC,DAPI,20x,DAPI,test
+389,74,AHPC,DAPI,20x,DAPI,test
+2010,56,AHPC,DAPI,20x,DAPI,test
+2308,1751,AHPC,DAPI,20x,DAPI,test
+2840,211,RPC,DAPI,40x,DAPI,test
+2958,337,RPC,DAPI,40x,DAPI,test
+219,61,AHPC,DAPI,20x,DAPI,test
+116,246,AHPC,DAPI,20x,DAPI,test
+27,52,AHPC,DAPI,20x,DAPI,test
+2396,2094,AHPC,DAPI,20x,DAPI,test
+65,105,AHPC,DAPI,20x,DAPI,test
+2659,729,AHPC,DAPI,20x,DAPI,test
+2508,936,AHPC,DAPI,20x,DAPI,test
+1913,55,AHPC,DAPI,20x,DAPI,test
+2434,1195,AHPC,DAPI,20x,DAPI,test
+1238,18,AHPC,DAPI,20x,DAPI,test
+2296,1217,AHPC,DAPI,20x,DAPI,test
+836,175,AHPC,DAPI,20x,DAPI,test
+295,248,AHPC,DAPI,20x,DAPI,test
+1912,33,AHPC,DAPI,20x,DAPI,test
+1144,91,AHPC,DAPI,20x,DAPI,test
+2897,199,RPC,DAPI,40x,DAPI,test
+2124,343,AHPC,DAPI,20x,DAPI,test
+1187,86,AHPC,DAPI,20x,DAPI,test
+1980,124,AHPC,DAPI,20x,DAPI,test
+360,176,AHPC,DAPI,20x,DAPI,test
+2056,65,AHPC,DAPI,20x,DAPI,test
+1974,124,AHPC,DAPI,20x,DAPI,test
+1878,203,AHPC,DAPI,20x,DAPI,test
+616,325,AHPC,DAPI,20x,DAPI,test
+2979,290,RPC,DAPI,40x,DAPI,test
+702,388,AHPC,DAPI,20x,DAPI,test
+1573,74,AHPC,DAPI,20x,DAPI,test
+1996,98,AHPC,DAPI,20x,DAPI,test
+2728,472,RPC,DAPI,40x,DAPI,test
+924,301,AHPC,DAPI,20x,DAPI,test
+738,863,AHPC,DAPI,20x,DAPI,test
+2189,842,AHPC,DAPI,20x,DAPI,test
+779,63,AHPC,DAPI,20x,DAPI,test
+187,64,AHPC,DAPI,20x,DAPI,test
+1180,76,AHPC,DAPI,20x,DAPI,test
+733,159,AHPC,DAPI,20x,DAPI,test
+1759,47,AHPC,DAPI,20x,DAPI,test
+131,56,AHPC,DAPI,20x,DAPI,test
+1432,84,AHPC,DAPI,20x,DAPI,test
+780,74,AHPC,DAPI,20x,DAPI,test
+1928,40,AHPC,DAPI,20x,DAPI,test
+2591,228,AHPC,DAPI,20x,DAPI,test
+1040,38,AHPC,DAPI,20x,DAPI,test
+872,102,AHPC,DAPI,20x,DAPI,test
+2367,1608,AHPC,DAPI,20x,DAPI,test
+1537,24,AHPC,DAPI,20x,DAPI,test
+104,131,AHPC,DAPI,20x,DAPI,test
