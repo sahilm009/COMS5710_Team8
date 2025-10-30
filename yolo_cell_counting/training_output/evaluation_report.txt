@@ -1,0 +1,18 @@
+YOLO MODEL EVALUATION REPORT
+==================================================
+
+OVERALL PERFORMANCE:
+mAP@50:       0.4606
+mAP@50-95:    0.2211
+Precision:    0.7367
+Recall:       0.1802
+F1 Score:     0.2896
+
+PER-CLASS PERFORMANCE:
+AF488: mAP=0.3466, P=0.9167, R=0.3526, Instances=0
+DAPI: mAP=0.2073, P=0.6781, R=0.1865, Instances=0
+Cy3: mAP=0.1094, P=0.6154, R=0.0016, Instances=0
+
+RECOMMENDATIONS:
+1. MODERATE: Model needs improvement - consider more training data or augmentation
+2. Cy3: Poor performance (mAP: 0.109) - needs more samples or augmentation
