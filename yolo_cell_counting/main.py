@@ -115,7 +115,7 @@ def main():
     print("\nFinished training pipeline.")
     evaluate_trained_model(data_processor)
 
-def _show_dataset_stats(self, yolo_dir):
+def _show_dataset_stats(yolo_dir):
     """Show statistics about the existing dataset"""
     try:
         for split in ['train', 'val', 'test']:
@@ -129,7 +129,7 @@ def _show_dataset_stats(self, yolo_dir):
     except Exception as e:
         print(f"  Could not read dataset stats: {e}")
 
-def _find_test_samples(self, yolo_dir):
+def _find_test_samples(yolo_dir):
     """Find sample images for testing"""
     test_dir = os.path.join(yolo_dir, "images", "test")
     sample_images = []
