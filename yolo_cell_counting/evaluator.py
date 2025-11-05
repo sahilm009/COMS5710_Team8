@@ -453,6 +453,8 @@ class ModelEvaluator:
             records.append({
                 'pred_count': pred_count,
                 'true_count': true_count,
+                'staining_type': self._extract_staining_type(img_file),
+                'img_file': img_file
             })
 
         # Save to CSV
