@@ -16,6 +16,12 @@ def main():
     data_processor = DataProcessor(data_root="dataset\\IDCIA", stainings=['AF488', 'DAPI', 'Cy3'])
     model_trainer = ModelTrainer(data_processor)
 
+    # Directly go to testing mode
+    test = False
+    if test:
+        evaluate_trained_model(data_processor)
+        return
+
     # Step 1: Load metadata
     print("Step 1: Loading metadata...")
     metadata_path = "dataset\\metadata.csv"
@@ -204,6 +210,9 @@ def evaluate_trained_model(data_processor):
     if metrics:
         report_path = evaluator.generate_evaluation_report(metrics)
 
+    print("\nStep 8: Generating prediction vs ground truth CSV for all test images...")
+    evaluator.generate_prediction_ground_truth_ratio_to_csv(model_path=model_path, conf_threshold=0.3)
+
     print("Finished testing.")
     return
 
@@ -222,6 +231,12 @@ def quick_test():
 
     data_processor = DataProcessor(data_root="dataset\\IDCIA", stainings=['AF488', 'DAPI', 'Cy3'])
     model_trainer = ModelTrainer(data_processor)
+
+    # Directly go to testing mode
+    test = True
+    if test:
+        evaluate_trained_model(data_processor)
+        return
 
     # Load metadata
     data_processor.load_metadata("dataset\\metadata.csv")

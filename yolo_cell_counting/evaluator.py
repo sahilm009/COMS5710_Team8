@@ -412,3 +412,53 @@ class ModelEvaluator:
 
         print(f"Evaluation report saved to: {output_path}")
         return output_path
+
+    def generate_prediction_ground_truth_ratio_to_csv(self, model_path=None, conf_threshold=0.3):
+        """Generate a CSV file comparing prediction counts to ground truth counts"""
+        print("\n" + "="*80)
+        print("PREDICTION vs GROUND TRUTH COUNT ANALYSIS")
+        print("="*80)
+
+        if model_path is None:
+            model_path = self._find_best_model_path()
+
+        model = YOLO(model_path)
+        test_images_dir = os.path.join(self.output_dir, "yolo_staining_dataset", "images", "test")
+        test_labels_dir = os.path.join(self.output_dir, "yolo_staining_dataset", "labels", "test")
+
+        if not os.path.exists(test_images_dir):
+            print(f"Error: Test directory not found: {test_images_dir}")
+            return None
+
+        test_images = [f for f in os.listdir(test_images_dir) if f.lower().endswith(('.jpg', '.jpeg', '.png'))]
+        records = []
+
+        print(f"Analyzing {len(test_images)} test images...")
+
+        for img_file in tqdm(test_images, desc="Processing images"):
+            img_path = os.path.join(test_images_dir, img_file)
+            base_name = os.path.splitext(img_file)[0]
+            label_path = os.path.join(test_labels_dir, base_name + ".txt")
+
+            # Get ground truth
+            true_annotations = self._parse_yolo_labels(label_path)
+            true_count = len(true_annotations)
+
+            # Get predictions
+            results = model.predict(source=img_path, conf=conf_threshold, verbose=False)
+            result = results[0]
+
+            pred_count = len(result.boxes) if result.boxes else 0
+
+            records.append({
+                'pred_count': pred_count,
+                'true_count': true_count,
+            })
+
+        # Save to CSV
+        df = pd.DataFrame(records)
+        output_csv = os.path.join(self.output_dir, 'prediction_vs_ground_truth_counts.csv')
+        df.to_csv(output_csv, index=False)
+
+        print(f"Prediction vs Ground Truth count analysis saved to: {output_csv}")
+        return output_csv
