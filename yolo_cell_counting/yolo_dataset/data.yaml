@@ -1,0 +1,7 @@
+names:
+- cell
+nc: 1
+path: C:\Users\harty\OneDrive - Iowa State University\School_Stuff\Graduate\Fall_2025\COMS_5710X\COMS5710_Team8\yolo_cell_counting\yolo_dataset
+test: images/test
+train: images/train
+val: images/val
