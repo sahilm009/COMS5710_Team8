@@ -18,22 +18,7 @@ class DataProcessor:
         self.metadata = None
         self.bbox_size_pixels = 30  # Fixed 30px bounding boxes
 
-        # Define augmentation strategies, number of augmentations per staining
-        # NOTE, might need more Cy3 augmentations
-        self.augmentation_plans = {
-            'AF488': 20,
-            'DAPI': 1,
-            'Cy3': 6
-        }
-
-        # EXCLUDE ROTATIONS AND FLIPS THAT AFFECT COORDINATES, haven't figured it out yet
-        # self.augmentation_transforms = A.Compose([
-        #     A.HorizontalFlip(p=0.3),
-        #     A.VerticalFlip(p=0.3),
-        #     A.RandomRotate90(p=0.3),
-        #     A.GaussianBlur(blur_limit=3, p=0.1),
-        #     A.GaussNoise(var_limit=(5.0, 10.0), p=0.1),
-        # ])
+        # Define base augmentation strategies
         self.augmentation_transforms = A.Compose([
             A.GaussNoise(var_limit=(5.0, 25.0), p=0.3),
             A.GaussianBlur(blur_limit=3, p=0.2),
@@ -41,12 +26,43 @@ class DataProcessor:
             A.CLAHE(clip_limit=2.0, tile_grid_size=(8, 8), p=0.3),
         ])
 
+        # More aggressive augmentations for high cell count images
+        self.aggressive_augmentation_transforms = A.Compose([
+            A.GaussNoise(var_limit=(10.0, 50.0), p=0.4),
+            A.GaussianBlur(blur_limit=5, p=0.3),
+            A.MotionBlur(blur_limit=5, p=0.2),
+            A.CLAHE(clip_limit=3.0, tile_grid_size=(8, 8), p=0.4),
+            A.RandomGamma(gamma_limit=(80, 120), p=0.3),
+            A.ISONoise(color_shift=(0.01, 0.05), intensity=(0.1, 0.5), p=0.2),
+        ])
+
+        self.base_augmentation_plan = {
+            'AF488': 10,
+            'DAPI': 1,
+            'Cy3': 8
+        }
+
     def load_metadata(self, metadata_path="dataset\\metadata.csv"):
         """Load and process metadata CSV file"""
         try:
             self.metadata = pd.read_csv(metadata_path)
             print(f"Loaded metadata with {len(self.metadata)} entries")
-            print("Staining distribution:")
+
+            # Print cell count statistics
+            print("\nCell count statistics:")
+            print(f"Min cell count: {self.metadata['cell_count'].min()}")
+            print(f"Max cell count: {self.metadata['cell_count'].max()}")
+            print(f"Mean cell count: {self.metadata['cell_count'].mean():.2f}")
+            print(f"Median cell count: {self.metadata['cell_count'].median()}")
+
+            # Print distribution by cell count ranges
+            cell_count_ranges = pd.cut(self.metadata['cell_count'],
+                                     bins=[0, 50, 150, float('inf')],
+                                     labels=['0-50', '51-150', '151+'])
+            print("\nCell count distribution:")
+            print(cell_count_ranges.value_counts().sort_index())
+
+            print("\nStaining distribution:")
             staining_counts = self.metadata['staining'].value_counts()
             print(staining_counts)
             print("\nCell type distribution:")
@@ -56,9 +72,43 @@ class DataProcessor:
             print(f"Error loading metadata: {e}")
             return None
 
+    def get_augmentation_count_based_on_cell_count(self, cell_count, staining, split):
+        """Determine number of augmentations based on cell count and staining"""
+        if split != 'train':
+            return 0
+
+        # Base augmentation by staining (your original logic)
+        base_augmentation = self.base_augmentation_plan.get(staining, 5)
+
+        # Cell count based multiplier
+        if cell_count <= 50:
+            # Low cell count: minimal additional augmentations
+            multiplier = 1.0
+        elif cell_count <= 150:
+            # Medium cell count: moderate additional augmentations
+            multiplier = 2.0
+        else:
+            # High cell count: maximum additional augmentations
+            multiplier = 4.0
+
+        # Apply staining-specific adjustments
+        if staining == 'DAPI':
+            # Be more conservative with DAPI
+            multiplier = min(multiplier, 2.0)
+        elif staining == 'Cy3':
+            # Be more aggressive with Cy3
+            multiplier = multiplier * 1.5
+
+        augmentation_count = int(base_augmentation * multiplier)
+
+        # Ensure minimum and maximum bounds
+        augmentation_count = max(1, min(augmentation_count, 50))
+
+        return augmentation_count
+
     def prepare_staining_dataset(self, force_refresh=False):
-        """Prepare dataset for staining-based classification with data augmentation"""
-        print("Preparing staining-based dataset with data augmentation...")
+        """Prepare dataset for staining-based classification with cell-count-based data augmentation"""
+        print("Preparing staining-based dataset with cell-count-based data augmentation...")
 
         if self.metadata is None:
             print("Please load metadata first using load_metadata()")
@@ -87,11 +137,17 @@ class DataProcessor:
         staining_class_mapping = {staining: idx for idx, staining in enumerate(self.stainings)}
         print(f"Staining class mapping: {staining_class_mapping}")
         print(f"Using fixed bounding box size: {self.bbox_size_pixels}px")
-        print(f"Augmentation plan: {self.augmentation_plans}")
 
         processed_count = 0
         missing_files = []
-        augmentation_stats = {staining: 0 for staining in self.stainings}
+        augmentation_stats = {
+            staining: {
+                'total_original': 0,
+                'total_augmented': 0,
+                'by_cell_count': {'0-50': 0, '51-150': 0, '151+': 0}
+            } for staining in self.stainings
+        }
+
         total_count = 0
         zero_cell_count_discarded = 0
         zero_cell_count_kept = 0
@@ -129,6 +185,17 @@ class DataProcessor:
                         missing_files.append(f"{staining}_{split}/{base_name}")
                         continue
 
+                    # Get cell count from metadata
+                    cell_count = image_metadata['cell_count'].iloc[0]
+
+                    # Categorize cell count for statistics
+                    if cell_count <= 50:
+                        cell_count_category = '0-50'
+                    elif cell_count <= 150:
+                        cell_count_category = '51-150'
+                    else:
+                        cell_count_category = '151+'
+
                     # Process image
                     img_path = os.path.join(images_path, tiff_file)
                     processed_img = self._load_and_process_tiff(img_path)
@@ -149,8 +216,10 @@ class DataProcessor:
                                 else:
                                     zero_cell_count_kept += 1
                         if os.path.exists(csv_path):
-                            # Determine how many augmented versions to create
-                            num_augmentations = self.augmentation_plans[staining] if split == 'train' else 0
+                            # Determine how many augmented versions to create based on cell count
+                            num_augmentations = self.get_augmentation_count_based_on_cell_count(
+                                cell_count, staining, split
+                            )
 
                             # Process original + augmented versions
                             for aug_idx in range(num_augmentations + 1):
@@ -158,10 +227,15 @@ class DataProcessor:
                                     # Original image
                                     aug_suffix = ""
                                     aug_image = processed_img
+                                    is_augmented = False
                                 else:
-                                    # Augmented version
+                                    # Augmented version - use aggressive augmentations for high cell count
                                     aug_suffix = f"_aug{aug_idx}"
-                                    aug_image = self._apply_augmentation(processed_img)
+                                    if cell_count > 150:
+                                        aug_image = self._apply_aggressive_augmentation(processed_img)
+                                    else:
+                                        aug_image = self._apply_augmentation(processed_img)
+                                    is_augmented = True
 
                                 # Create filenames
                                 output_img_path = os.path.join(images_dir, split, f"{staining}_{base_name}{aug_suffix}.jpg")
@@ -171,7 +245,8 @@ class DataProcessor:
                                 # Skip if files already exist
                                 if not force_refresh and os.path.exists(output_img_path) and os.path.exists(label_path):
                                     processed_count += 1
-                                    augmentation_stats[staining] += 1
+                                    augmentation_stats[staining]['total_augmented'] += 1
+                                    augmentation_stats[staining]['by_cell_count'][cell_count_category] += 1
                                     continue
 
                                 # Save augmented image
@@ -185,21 +260,34 @@ class DataProcessor:
                                     self._create_bbox_visualization(aug_image, csv_path, viz_path, staining_class_mapping[staining], staining)
 
                                 processed_count += 1
-                                augmentation_stats[staining] += 1
+                                if is_augmented:
+                                    augmentation_stats[staining]['total_augmented'] += 1
+                                    augmentation_stats[staining]['by_cell_count'][cell_count_category] += 1
+                                else:
+                                    augmentation_stats[staining]['total_original'] += 1
                         else:
                             print(f"Warning: No CSV ground truth found for {base_name}")
                             missing_files.append(f"{staining}_{split}/{base_name}.csv")
                     else:
                         print(f"Warning: Could not process image {img_path}")
 
-        # Print augmentation statistics
-        print(f"\n=== AUGMENTATION STATISTICS ===")
-        print(f"Total images processed: {total_count} and kept zero-cell images: {zero_cell_count_kept}, discarded zero-cell images: {zero_cell_count_discarded}\n")
+        # Print detailed augmentation statistics
+        print(f"\n=== CELL-COUNT-BASED AUGMENTATION STATISTICS ===")
+        print(f"Total images processed: {total_count}")
+        print(f"Zero-cell images - kept: {zero_cell_count_kept}, discarded: {zero_cell_count_discarded}\n")
+
         for staining in self.stainings:
             original_count = len([f for f in os.listdir(os.path.join(self.data_root, f"{staining}_train", "images"))
                                 if f.lower().endswith(('.tif', '.tiff'))])
-            augmented_count = augmentation_stats[staining]
-            print(f"{staining}: {original_count} → {augmented_count} images ({(augmented_count/original_count):.1f}x)")
+            total_augmented = augmentation_stats[staining]['total_augmented']
+            total_final = augmentation_stats[staining]['total_original'] + total_augmented
+
+            print(f"\n{staining}:")
+            print(f"  Original: {original_count} → Final: {total_final} images ({(total_final/original_count):.1f}x)")
+            print(f"  Augmentations by cell count range:")
+            for category in ['0-50', '51-150', '151+']:
+                count = augmentation_stats[staining]['by_cell_count'][category]
+                print(f"    {category}: {count} augmentations")
 
         print(f"\nSuccessfully processed {processed_count} images")
         if missing_files:
@@ -215,7 +303,7 @@ class DataProcessor:
         return yolo_dir
 
     def _apply_augmentation(self, image):
-        """Apply augmentation to image (excluding brightness changes)"""
+        """Apply standard augmentation to image"""
         try:
             # Convert BGR to RGB for albumentations
             image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
@@ -231,6 +319,77 @@ class DataProcessor:
         except Exception as e:
             print(f"Error applying augmentation: {e}")
             return image  # Return original if augmentation fails
+
+    def _apply_aggressive_augmentation(self, image):
+        """Apply more aggressive augmentation for high cell count images"""
+        try:
+            # Convert BGR to RGB for albumentations
+            image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+
+            # Apply aggressive augmentation
+            augmented = self.aggressive_augmentation_transforms(image=image_rgb)
+            augmented_image = augmented['image']
+
+            # Convert back to BGR
+            augmented_image_bgr = cv2.cvtColor(augmented_image, cv2.COLOR_RGB2BGR)
+
+            return augmented_image_bgr
+        except Exception as e:
+            print(f"Error applying aggressive augmentation: {e}")
+            return self._apply_augmentation(image)  # Fall back to standard augmentation
+
+    def analyze_cell_count_distribution(self):
+        """Analyze and visualize cell count distribution for augmentation planning"""
+        if self.metadata is None:
+            print("Please load metadata first using load_metadata()")
+            return
+
+        import matplotlib.pyplot as plt
+
+        # Create cell count ranges
+        self.metadata['cell_count_range'] = pd.cut(
+            self.metadata['cell_count'],
+            bins=[0, 50, 150, float('inf')],
+            labels=['0-50', '51-150', '151+']
+        )
+
+        # Plot distribution
+        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 6))
+
+        # Overall distribution
+        cell_count_ranges = self.metadata['cell_count_range'].value_counts().sort_index()
+        cell_count_ranges.plot(kind='bar', ax=ax1, color=['lightblue', 'orange', 'red'])
+        ax1.set_title('Overall Cell Count Distribution')
+        ax1.set_xlabel('Cell Count Range')
+        ax1.set_ylabel('Number of Images')
+        ax1.tick_params(axis='x', rotation=45)
+
+        # Distribution by staining
+        staining_by_range = pd.crosstab(self.metadata['staining'], self.metadata['cell_count_range'])
+        staining_by_range.plot(kind='bar', ax=ax2, color=['lightblue', 'orange', 'red'])
+        ax2.set_title('Cell Count Distribution by Staining')
+        ax2.set_xlabel('Staining')
+        ax2.set_ylabel('Number of Images')
+        ax2.legend(title='Cell Count Range')
+        ax2.tick_params(axis='x', rotation=45)
+
+        plt.tight_layout()
+        plt.show()
+
+        # Print detailed statistics
+        print("\n=== DETAILED CELL COUNT ANALYSIS ===")
+        for staining in self.stainings:
+            staining_data = self.metadata[self.metadata['staining'] == staining]
+            print(f"\n{staining}:")
+            print(f"  Total images: {len(staining_data)}")
+            print(f"  Mean cell count: {staining_data['cell_count'].mean():.2f}")
+            print(f"  Median cell count: {staining_data['cell_count'].median()}")
+            for range_label in ['0-50', '51-150', '151+']:
+                count = len(staining_data[staining_data['cell_count_range'] == range_label])
+                percentage = (count / len(staining_data)) * 100
+                print(f"  {range_label}: {count} images ({percentage:.1f}%)")
+
+        return self.metadata
 
     def _create_bbox_visualization(self, image, csv_path, output_path, class_id, staining_name):
         """Create visualization images with bounding boxes drawn"""
@@ -333,7 +492,7 @@ class DataProcessor:
             'stainings': self.stainings,
             'data_root': self.data_root,
             'bbox_size_pixels': self.bbox_size_pixels,
-            'augmentation_plan': self.augmentation_plans
+            'augmentation_plan': self.base_augmentation_plan
         }
 
         with open(completion_file, 'w') as f:

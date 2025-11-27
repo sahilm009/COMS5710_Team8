@@ -233,7 +233,7 @@ def quick_test():
     model_trainer = ModelTrainer(data_processor)
 
     # Directly go to testing mode
-    test = True
+    test = False
     if test:
         evaluate_trained_model(data_processor)
         return
