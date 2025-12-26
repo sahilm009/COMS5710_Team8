@@ -1,0 +1,10 @@
+Prechecks:
+
+1. Install all relevant packages / libraries from requirements.txt.
+2. The original dataset must be in same directory as running files.
+3. Check if quick_test() is enabled in main.py (only does 5 epochs), else 50 epochs (CAN BE CHANGED, also untested).
+4. Check yolov8n.pt model is included in directory.
+5. Change batch property to whatever system can handle, only tested with 4.
+
+Note:
+Instance counting for specific cell stains is BROKEN.
